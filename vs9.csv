@@ -1,0 +1,176 @@
+Congress,Year,Party,Position
+80,1947,Entire chamber,0.072
+81,1949,Entire chamber,-0.025
+82,1951,Entire chamber,0.014
+83,1953,Entire chamber,0.026
+84,1955,Entire chamber,-0.006
+85,1957,Entire chamber,-0.017
+86,1959,Entire chamber,-0.079
+87,1961,Entire chamber,-0.055
+88,1963,Entire chamber,-0.063
+89,1965,Entire chamber,-0.115
+90,1967,Entire chamber,-0.065
+91,1969,Entire chamber,-0.066
+92,1971,Entire chamber,-0.081
+93,1973,Entire chamber,-0.078
+94,1975,Entire chamber,-0.135
+95,1977,Entire chamber,-0.129
+96,1979,Entire chamber,-0.103
+97,1981,Entire chamber,-0.049
+98,1983,Entire chamber,-0.07
+99,1985,Entire chamber,-0.05
+100,1987,Entire chamber,-0.048
+101,1989,Entire chamber,-0.046
+102,1991,Entire chamber,-0.049
+103,1993,Entire chamber,-0.021
+104,1995,Entire chamber,0.09
+105,1997,Entire chamber,0.095
+106,1999,Entire chamber,0.1
+107,2001,Entire chamber,0.119
+108,2003,Entire chamber,0.141
+109,2005,Entire chamber,0.159
+110,2007,Entire chamber,0.11
+111,2009,Entire chamber,0.08
+112,2011,Entire chamber,0.206
+113,2013,Entire chamber,0.205
+114,2015,Entire chamber,0.227
+80,1947,Democrats,-0.147
+81,1949,Democrats,-0.197
+82,1951,Democrats,-0.183
+83,1953,Democrats,-0.187
+84,1955,Democrats,-0.215
+85,1957,Democrats,-0.221
+86,1959,Democrats,-0.245
+87,1961,Democrats,-0.232
+88,1963,Democrats,-0.255
+89,1965,Democrats,-0.267
+90,1967,Democrats,-0.263
+91,1969,Democrats,-0.28
+92,1971,Democrats,-0.286
+93,1973,Democrats,-0.303
+94,1975,Democrats,-0.301
+95,1977,Democrats,-0.292
+96,1979,Democrats,-0.289
+97,1981,Democrats,-0.287
+98,1983,Democrats,-0.289
+99,1985,Democrats,-0.301
+100,1987,Democrats,-0.299
+101,1989,Democrats,-0.302
+102,1991,Democrats,-0.302
+103,1993,Democrats,-0.314
+104,1995,Democrats,-0.339
+105,1997,Democrats,-0.346
+106,1999,Democrats,-0.345
+107,2001,Democrats,-0.35
+108,2003,Democrats,-0.349
+109,2005,Democrats,-0.359
+110,2007,Democrats,-0.34
+111,2009,Democrats,-0.329
+112,2011,Democrats,-0.378
+113,2013,Democrats,-0.371
+114,2015,Democrats,-0.384
+80,1947,Republicans,0.248
+81,1949,Republicans,0.242
+82,1951,Republicans,0.239
+83,1953,Republicans,0.234
+84,1955,Republicans,0.233
+85,1957,Republicans,0.221
+86,1959,Republicans,0.221
+87,1961,Republicans,0.221
+88,1963,Republicans,0.214
+89,1965,Republicans,0.204
+90,1967,Republicans,0.197
+91,1969,Republicans,0.207
+92,1971,Republicans,0.203
+93,1973,Republicans,0.204
+94,1975,Republicans,0.197
+95,1977,Republicans,0.194
+96,1979,Republicans,0.223
+97,1981,Republicans,0.25
+98,1983,Republicans,0.281
+99,1985,Republicans,0.301
+100,1987,Republicans,0.315
+101,1989,Republicans,0.327
+102,1991,Republicans,0.357
+103,1993,Republicans,0.407
+104,1995,Republicans,0.472
+105,1997,Republicans,0.501
+106,1999,Republicans,0.525
+107,2001,Republicans,0.555
+108,2003,Republicans,0.584
+109,2005,Republicans,0.606
+110,2007,Republicans,0.636
+111,2009,Republicans,0.665
+112,2011,Republicans,0.686
+113,2013,Republicans,0.7
+114,2015,Republicans,0.693
+80,1947,Nonsouthern Democrats,-0.303
+81,1949,Nonsouthern Democrats,-0.312
+82,1951,Nonsouthern Democrats,-0.315
+83,1953,Nonsouthern Democrats,-0.336
+84,1955,Nonsouthern Democrats,-0.353
+85,1957,Nonsouthern Democrats,-0.357
+86,1959,Nonsouthern Democrats,-0.355
+87,1961,Nonsouthern Democrats,-0.347
+88,1963,Nonsouthern Democrats,-0.371
+89,1965,Nonsouthern Democrats,-0.36
+90,1967,Nonsouthern Democrats,-0.375
+91,1969,Nonsouthern Democrats,-0.386
+92,1971,Nonsouthern Democrats,-0.387
+93,1973,Nonsouthern Democrats,-0.388
+94,1975,Nonsouthern Democrats,-0.371
+95,1977,Nonsouthern Democrats,-0.358
+96,1979,Nonsouthern Democrats,-0.352
+97,1981,Nonsouthern Democrats,-0.357
+98,1983,Nonsouthern Democrats,-0.358
+99,1985,Nonsouthern Democrats,-0.357
+100,1987,Nonsouthern Democrats,-0.351
+101,1989,Nonsouthern Democrats,-0.347
+102,1991,Nonsouthern Democrats,-0.344
+103,1993,Nonsouthern Democrats,-0.347
+104,1995,Nonsouthern Democrats,-0.371
+105,1997,Nonsouthern Democrats,-0.369
+106,1999,Nonsouthern Democrats,-0.371
+107,2001,Nonsouthern Democrats,-0.374
+108,2003,Nonsouthern Democrats,-0.383
+109,2005,Nonsouthern Democrats,-0.385
+110,2007,Nonsouthern Democrats,-0.365
+111,2009,Nonsouthern Democrats,-0.35
+112,2011,Nonsouthern Democrats,-0.391
+113,2013,Nonsouthern Democrats,-0.376
+114,2015,Nonsouthern Democrats,-0.387
+80,1947,Southern Democrats,-0.046
+81,1949,Southern Democrats,-0.054
+82,1951,Southern Democrats,-0.047
+83,1953,Southern Democrats,-0.046
+84,1955,Southern Democrats,-0.057
+85,1957,Southern Democrats,-0.065
+86,1959,Southern Democrats,-0.071
+87,1961,Southern Democrats,-0.076
+88,1963,Southern Democrats,-0.086
+89,1965,Southern Democrats,-0.091
+90,1967,Southern Democrats,-0.071
+91,1969,Southern Democrats,-0.087
+92,1971,Southern Democrats,-0.096
+93,1973,Southern Democrats,-0.138
+94,1975,Southern Democrats,-0.15
+95,1977,Southern Democrats,-0.148
+96,1979,Southern Democrats,-0.149
+97,1981,Southern Democrats,-0.141
+98,1983,Southern Democrats,-0.153
+99,1985,Southern Democrats,-0.184
+100,1987,Southern Democrats,-0.195
+101,1989,Southern Democrats,-0.206
+102,1991,Southern Democrats,-0.21
+103,1993,Southern Democrats,-0.247
+104,1995,Southern Democrats,-0.267
+105,1997,Southern Democrats,-0.281
+106,1999,Southern Democrats,-0.271
+107,2001,Southern Democrats,-0.278
+108,2003,Southern Democrats,-0.263
+109,2005,Southern Democrats,-0.282
+110,2007,Southern Democrats,-0.264
+111,2009,Southern Democrats,-0.263
+112,2011,Southern Democrats,-0.325
+113,2013,Southern Democrats,-0.352
+114,2015,Southern Democrats,-0.37

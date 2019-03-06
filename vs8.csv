@@ -1,0 +1,1735 @@
+Congress,Year,Party,Committee,Position
+80,1947,All members,"Agriculture, Nutrition, & Forestry",0.081
+81,1949,All members,"Agriculture, Nutrition, & Forestry",0.036
+82,1951,All members,"Agriculture, Nutrition, & Forestry",0.072
+83,1953,All members,"Agriculture, Nutrition, & Forestry",0.152
+84,1955,All members,"Agriculture, Nutrition, & Forestry",0.067
+85,1957,All members,"Agriculture, Nutrition, & Forestry",0.082
+86,1959,All members,"Agriculture, Nutrition, & Forestry",-0.006
+87,1961,All members,"Agriculture, Nutrition, & Forestry",-0.083
+88,1963,All members,"Agriculture, Nutrition, & Forestry",-0.05
+89,1965,All members,"Agriculture, Nutrition, & Forestry",-0.056
+90,1967,All members,"Agriculture, Nutrition, & Forestry",-0.04
+91,1969,All members,"Agriculture, Nutrition, & Forestry",0.089
+92,1971,All members,"Agriculture, Nutrition, & Forestry",0.046
+93,1973,All members,"Agriculture, Nutrition, & Forestry",-0.011
+94,1975,All members,"Agriculture, Nutrition, & Forestry",-0.015
+95,1977,All members,"Agriculture, Nutrition, & Forestry",-0.02
+96,1979,All members,"Agriculture, Nutrition, & Forestry",0.022
+97,1981,All members,"Agriculture, Nutrition, & Forestry",0.081
+98,1983,All members,"Agriculture, Nutrition, & Forestry",0.1
+99,1985,All members,"Agriculture, Nutrition, & Forestry",0.059
+100,1987,All members,"Agriculture, Nutrition, & Forestry",0.038
+101,1989,All members,"Agriculture, Nutrition, & Forestry",0.024
+102,1991,All members,"Agriculture, Nutrition, & Forestry",0.042
+103,1993,All members,"Agriculture, Nutrition, & Forestry",-0.006
+104,1995,All members,"Agriculture, Nutrition, & Forestry",0.063
+105,1997,All members,"Agriculture, Nutrition, & Forestry",0.096
+106,1999,All members,"Agriculture, Nutrition, & Forestry",0.081
+107,2001,All members,"Agriculture, Nutrition, & Forestry",0.077
+108,2003,All members,"Agriculture, Nutrition, & Forestry",0.044
+109,2005,All members,"Agriculture, Nutrition, & Forestry",0.087
+110,2007,All members,"Agriculture, Nutrition, & Forestry",0.018
+111,2009,All members,"Agriculture, Nutrition, & Forestry",-0.004
+112,2011,All members,"Agriculture, Nutrition, & Forestry",0.025
+113,2013,All members,"Agriculture, Nutrition, & Forestry",0.044
+80,1947,Democrats,"Agriculture, Nutrition, & Forestry",-0.168
+81,1949,Democrats,"Agriculture, Nutrition, & Forestry",-0.103
+82,1951,Democrats,"Agriculture, Nutrition, & Forestry",-0.097
+83,1953,Democrats,"Agriculture, Nutrition, & Forestry",-0.052
+84,1955,Democrats,"Agriculture, Nutrition, & Forestry",-0.139
+85,1957,Democrats,"Agriculture, Nutrition, & Forestry",-0.114
+86,1959,Democrats,"Agriculture, Nutrition, & Forestry",-0.2
+87,1961,Democrats,"Agriculture, Nutrition, & Forestry",-0.239
+88,1963,Democrats,"Agriculture, Nutrition, & Forestry",-0.211
+89,1965,Democrats,"Agriculture, Nutrition, & Forestry",-0.177
+90,1967,Democrats,"Agriculture, Nutrition, & Forestry",-0.125
+91,1969,Democrats,"Agriculture, Nutrition, & Forestry",-0.042
+92,1971,Democrats,"Agriculture, Nutrition, & Forestry",-0.126
+93,1973,Democrats,"Agriculture, Nutrition, & Forestry",-0.278
+94,1975,Democrats,"Agriculture, Nutrition, & Forestry",-0.244
+95,1977,Democrats,"Agriculture, Nutrition, & Forestry",-0.269
+96,1979,Democrats,"Agriculture, Nutrition, & Forestry",-0.228
+97,1981,Democrats,"Agriculture, Nutrition, & Forestry",-0.189
+98,1983,Democrats,"Agriculture, Nutrition, & Forestry",-0.193
+99,1985,Democrats,"Agriculture, Nutrition, & Forestry",-0.234
+100,1987,Democrats,"Agriculture, Nutrition, & Forestry",-0.315
+101,1989,Democrats,"Agriculture, Nutrition, & Forestry",-0.309
+102,1991,Democrats,"Agriculture, Nutrition, & Forestry",-0.313
+103,1993,Democrats,"Agriculture, Nutrition, & Forestry",-0.355
+104,1995,Democrats,"Agriculture, Nutrition, & Forestry",-0.327
+105,1997,Democrats,"Agriculture, Nutrition, & Forestry",-0.345
+106,1999,Democrats,"Agriculture, Nutrition, & Forestry",-0.339
+107,2001,Democrats,"Agriculture, Nutrition, & Forestry",-0.3
+108,2003,Democrats,"Agriculture, Nutrition, & Forestry",-0.297
+109,2005,Democrats,"Agriculture, Nutrition, & Forestry",-0.346
+110,2007,Democrats,"Agriculture, Nutrition, & Forestry",-0.375
+111,2009,Democrats,"Agriculture, Nutrition, & Forestry",-0.341
+112,2011,Democrats,"Agriculture, Nutrition, & Forestry",-0.332
+113,2013,Democrats,"Agriculture, Nutrition, & Forestry",-0.345
+80,1947,Republicans,"Agriculture, Nutrition, & Forestry",0.294
+81,1949,Republicans,"Agriculture, Nutrition, & Forestry",0.258
+82,1951,Republicans,"Agriculture, Nutrition, & Forestry",0.268
+83,1953,Republicans,"Agriculture, Nutrition, & Forestry",0.331
+84,1955,Republicans,"Agriculture, Nutrition, & Forestry",0.302
+85,1957,Republicans,"Agriculture, Nutrition, & Forestry",0.306
+86,1959,Republicans,"Agriculture, Nutrition, & Forestry",0.35
+87,1961,Republicans,"Agriculture, Nutrition, & Forestry",0.201
+88,1963,Republicans,"Agriculture, Nutrition, & Forestry",0.245
+89,1965,Republicans,"Agriculture, Nutrition, & Forestry",0.16
+90,1967,Republicans,"Agriculture, Nutrition, & Forestry",0.129
+91,1969,Republicans,"Agriculture, Nutrition, & Forestry",0.243
+92,1971,Republicans,"Agriculture, Nutrition, & Forestry",0.275
+93,1973,Republicans,"Agriculture, Nutrition, & Forestry",0.345
+94,1975,Republicans,"Agriculture, Nutrition, & Forestry",0.396
+95,1977,Republicans,"Agriculture, Nutrition, & Forestry",0.394
+96,1979,Republicans,"Agriculture, Nutrition, & Forestry",0.335
+97,1981,Republicans,"Agriculture, Nutrition, & Forestry",0.322
+98,1983,Republicans,"Agriculture, Nutrition, & Forestry",0.335
+99,1985,Republicans,"Agriculture, Nutrition, & Forestry",0.319
+100,1987,Republicans,"Agriculture, Nutrition, & Forestry",0.351
+101,1989,Republicans,"Agriculture, Nutrition, & Forestry",0.357
+102,1991,Republicans,"Agriculture, Nutrition, & Forestry",0.397
+103,1993,Republicans,"Agriculture, Nutrition, & Forestry",0.429
+104,1995,Republicans,"Agriculture, Nutrition, & Forestry",0.41
+105,1997,Republicans,"Agriculture, Nutrition, & Forestry",0.448
+106,1999,Republicans,"Agriculture, Nutrition, & Forestry",0.417
+107,2001,Republicans,"Agriculture, Nutrition, & Forestry",0.454
+108,2003,Republicans,"Agriculture, Nutrition, & Forestry",0.355
+109,2005,Republicans,"Agriculture, Nutrition, & Forestry",0.442
+110,2007,Republicans,"Agriculture, Nutrition, & Forestry",0.412
+111,2009,Republicans,"Agriculture, Nutrition, & Forestry",0.446
+112,2011,Republicans,"Agriculture, Nutrition, & Forestry",0.417
+113,2013,Republicans,"Agriculture, Nutrition, & Forestry",0.52
+80,1947,All members,Appropriations,0.133
+81,1949,All members,Appropriations,0.056
+82,1951,All members,Appropriations,0.093
+83,1953,All members,Appropriations,0.106
+84,1955,All members,Appropriations,0.081
+85,1957,All members,Appropriations,0.079
+86,1959,All members,Appropriations,-0.017
+87,1961,All members,Appropriations,0.008
+88,1963,All members,Appropriations,-0.058
+89,1965,All members,Appropriations,-0.048
+90,1967,All members,Appropriations,-0.078
+91,1969,All members,Appropriations,-0.024
+92,1971,All members,Appropriations,-0.052
+93,1973,All members,Appropriations,-0.123
+94,1975,All members,Appropriations,-0.148
+95,1977,All members,Appropriations,-0.195
+96,1979,All members,Appropriations,-0.099
+97,1981,All members,Appropriations,-0.014
+98,1983,All members,Appropriations,-0.031
+99,1985,All members,Appropriations,-0.042
+100,1987,All members,Appropriations,-0.083
+101,1989,All members,Appropriations,-0.08
+102,1991,All members,Appropriations,-0.103
+103,1993,All members,Appropriations,-0.065
+104,1995,All members,Appropriations,-0.022
+105,1997,All members,Appropriations,-0.001
+106,1999,All members,Appropriations,-0.002
+107,2001,All members,Appropriations,-0.026
+108,2003,All members,Appropriations,-0.008
+109,2005,All members,Appropriations,0.024
+110,2007,All members,Appropriations,-0.023
+111,2009,All members,Appropriations,-0.098
+112,2011,All members,Appropriations,-0.019
+113,2013,All members,Appropriations,0.015
+80,1947,Democrats,Appropriations,-0.095
+81,1949,Democrats,Appropriations,-0.102
+82,1951,Democrats,Appropriations,-0.109
+83,1953,Democrats,Appropriations,-0.098
+84,1955,Democrats,Appropriations,-0.101
+85,1957,Democrats,Appropriations,-0.087
+86,1959,Democrats,Appropriations,-0.167
+87,1961,Democrats,Appropriations,-0.164
+88,1963,Democrats,Appropriations,-0.191
+89,1965,Democrats,Appropriations,-0.176
+90,1967,Democrats,Appropriations,-0.2
+91,1969,Democrats,Appropriations,-0.183
+92,1971,Democrats,Appropriations,-0.224
+93,1973,Democrats,Appropriations,-0.266
+94,1975,Democrats,Appropriations,-0.26
+95,1977,Democrats,Appropriations,-0.27
+96,1979,Democrats,Appropriations,-0.298
+97,1981,Democrats,Appropriations,-0.272
+98,1983,Democrats,Appropriations,-0.272
+99,1985,Democrats,Appropriations,-0.297
+100,1987,Democrats,Appropriations,-0.302
+101,1989,Democrats,Appropriations,-0.35
+102,1991,Democrats,Appropriations,-0.354
+103,1993,Democrats,Appropriations,-0.355
+104,1995,Democrats,Appropriations,-0.373
+105,1997,Democrats,Appropriations,-0.411
+106,1999,Democrats,Appropriations,-0.406
+107,2001,Democrats,Appropriations,-0.382
+108,2003,Democrats,Appropriations,-0.383
+109,2005,Democrats,Appropriations,-0.409
+110,2007,Democrats,Appropriations,-0.414
+111,2009,Democrats,Appropriations,-0.386
+112,2011,Democrats,Appropriations,-0.366
+113,2013,Democrats,Appropriations,-0.368
+80,1947,Republicans,Appropriations,0.305
+81,1949,Republicans,Appropriations,0.314
+82,1951,Republicans,Appropriations,0.316
+83,1953,Republicans,Appropriations,0.293
+84,1955,Republicans,Appropriations,0.279
+85,1957,Republicans,Appropriations,0.278
+86,1959,Republicans,Appropriations,0.283
+87,1961,Republicans,Appropriations,0.301
+88,1963,Republicans,Appropriations,0.207
+89,1965,Republicans,Appropriations,0.206
+90,1967,Republicans,Appropriations,0.153
+91,1969,Republicans,Appropriations,0.199
+92,1971,Republicans,Appropriations,0.151
+93,1973,Republicans,Appropriations,0.071
+94,1975,Republicans,Appropriations,0.032
+95,1977,Republicans,Appropriations,-0.045
+96,1979,Republicans,Appropriations,0.209
+97,1981,Republicans,Appropriations,0.226
+98,1983,Republicans,Appropriations,0.194
+99,1985,Republicans,Appropriations,0.197
+100,1987,Republicans,Appropriations,0.187
+101,1989,Republicans,Appropriations,0.253
+102,1991,Republicans,Appropriations,0.231
+103,1993,Republicans,Appropriations,0.293
+104,1995,Republicans,Appropriations,0.282
+105,1997,Republicans,Appropriations,0.354
+106,1999,Republicans,Appropriations,0.348
+107,2001,Republicans,Appropriations,0.33
+108,2003,Republicans,Appropriations,0.342
+109,2005,Republicans,Appropriations,0.4
+110,2007,Republicans,Appropriations,0.397
+111,2009,Republicans,Appropriations,0.335
+112,2011,Republicans,Appropriations,0.378
+113,2013,Republicans,Appropriations,0.426
+80,1947,All members,Armed Services,0.083
+81,1949,All members,Armed Services,0.06
+82,1951,All members,Armed Services,0.087
+83,1953,All members,Armed Services,0.044
+84,1955,All members,Armed Services,0.063
+85,1957,All members,Armed Services,0.067
+86,1959,All members,Armed Services,0
+87,1961,All members,Armed Services,0.009
+88,1963,All members,Armed Services,-0.051
+89,1965,All members,Armed Services,-0.013
+90,1967,All members,Armed Services,-0.021
+91,1969,All members,Armed Services,0.018
+92,1971,All members,Armed Services,0.03
+93,1973,All members,Armed Services,0.082
+94,1975,All members,Armed Services,0.033
+95,1977,All members,Armed Services,0.031
+96,1979,All members,Armed Services,0.048
+97,1981,All members,Armed Services,0.147
+98,1983,All members,Armed Services,0.084
+99,1985,All members,Armed Services,0.081
+100,1987,All members,Armed Services,0.049
+101,1989,All members,Armed Services,-0.01
+102,1991,All members,Armed Services,-0.004
+103,1993,All members,Armed Services,0.044
+104,1995,All members,Armed Services,0.067
+105,1997,All members,Armed Services,0.069
+106,1999,All members,Armed Services,0.072
+107,2001,All members,Armed Services,0.04
+108,2003,All members,Armed Services,0.016
+109,2005,All members,Armed Services,0.066
+110,2007,All members,Armed Services,0.012
+111,2009,All members,Armed Services,-0.002
+112,2011,All members,Armed Services,0.039
+113,2013,All members,Armed Services,0.1
+80,1947,Democrats,Armed Services,-0.108
+81,1949,Democrats,Armed Services,-0.059
+82,1951,Democrats,Armed Services,-0.052
+83,1953,Democrats,Armed Services,-0.095
+84,1955,Democrats,Armed Services,-0.106
+85,1957,Democrats,Armed Services,-0.107
+86,1959,Democrats,Armed Services,-0.14
+87,1961,Democrats,Armed Services,-0.13
+88,1963,Democrats,Armed Services,-0.15
+89,1965,Democrats,Armed Services,-0.158
+90,1967,Democrats,Armed Services,-0.192
+91,1969,Democrats,Armed Services,-0.173
+92,1971,Democrats,Armed Services,-0.227
+93,1973,Democrats,Armed Services,-0.22
+94,1975,Democrats,Armed Services,-0.297
+95,1977,Democrats,Armed Services,-0.323
+96,1979,Democrats,Armed Services,-0.263
+97,1981,Democrats,Armed Services,-0.24
+98,1983,Democrats,Armed Services,-0.297
+99,1985,Democrats,Armed Services,-0.292
+100,1987,Democrats,Armed Services,-0.263
+101,1989,Democrats,Armed Services,-0.286
+102,1991,Democrats,Armed Services,-0.287
+103,1993,Democrats,Armed Services,-0.278
+104,1995,Democrats,Armed Services,-0.319
+105,1997,Democrats,Armed Services,-0.36
+106,1999,Democrats,Armed Services,-0.371
+107,2001,Democrats,Armed Services,-0.37
+108,2003,Democrats,Armed Services,-0.392
+109,2005,Democrats,Armed Services,-0.416
+110,2007,Democrats,Armed Services,-0.386
+111,2009,Democrats,Armed Services,-0.348
+112,2011,Democrats,Armed Services,-0.306
+113,2013,Democrats,Armed Services,-0.327
+80,1947,Republicans,Armed Services,0.275
+81,1949,Republicans,Armed Services,0.228
+82,1951,Republicans,Armed Services,0.255
+83,1953,Republicans,Armed Services,0.166
+84,1955,Republicans,Armed Services,0.255
+85,1957,Republicans,Armed Services,0.266
+86,1959,Republicans,Armed Services,0.234
+87,1961,Republicans,Armed Services,0.24
+88,1963,Republicans,Armed Services,0.167
+89,1965,Republicans,Armed Services,0.334
+90,1967,Republicans,Armed Services,0.319
+91,1969,Republicans,Armed Services,0.255
+92,1971,Republicans,Armed Services,0.299
+93,1973,Republicans,Armed Services,0.463
+94,1975,Republicans,Armed Services,0.494
+95,1977,Republicans,Armed Services,0.525
+96,1979,Republicans,Armed Services,0.416
+97,1981,Republicans,Armed Services,0.431
+98,1983,Republicans,Armed Services,0.389
+99,1985,Republicans,Armed Services,0.416
+100,1987,Republicans,Armed Services,0.431
+101,1989,Republicans,Armed Services,0.37
+102,1991,Republicans,Armed Services,0.386
+103,1993,Republicans,Armed Services,0.437
+104,1995,Republicans,Armed Services,0.418
+105,1997,Republicans,Armed Services,0.412
+106,1999,Republicans,Armed Services,0.435
+107,2001,Republicans,Armed Services,0.449
+108,2003,Republicans,Armed Services,0.392
+109,2005,Republicans,Armed Services,0.473
+110,2007,Republicans,Armed Services,0.443
+111,2009,Republicans,Armed Services,0.46
+112,2011,Republicans,Armed Services,0.442
+113,2013,Republicans,Armed Services,0.599
+80,1947,All members,"Banking, Housing, & Urban Affairs",0.023
+81,1949,All members,"Banking, Housing, & Urban Affairs",-0.066
+82,1951,All members,"Banking, Housing, & Urban Affairs",0.112
+83,1953,All members,"Banking, Housing, & Urban Affairs",0.07
+84,1955,All members,"Banking, Housing, & Urban Affairs",-0.057
+85,1957,All members,"Banking, Housing, & Urban Affairs",0.011
+86,1959,All members,"Banking, Housing, & Urban Affairs",-0.131
+87,1961,All members,"Banking, Housing, & Urban Affairs",-0.174
+88,1963,All members,"Banking, Housing, & Urban Affairs",-0.143
+89,1965,All members,"Banking, Housing, & Urban Affairs",-0.143
+90,1967,All members,"Banking, Housing, & Urban Affairs",-0.124
+91,1969,All members,"Banking, Housing, & Urban Affairs",-0.192
+92,1971,All members,"Banking, Housing, & Urban Affairs",-0.066
+93,1973,All members,"Banking, Housing, & Urban Affairs",-0.107
+94,1975,All members,"Banking, Housing, & Urban Affairs",-0.092
+95,1977,All members,"Banking, Housing, & Urban Affairs",-0.089
+96,1979,All members,"Banking, Housing, & Urban Affairs",-0.1
+97,1981,All members,"Banking, Housing, & Urban Affairs",-0.039
+98,1983,All members,"Banking, Housing, & Urban Affairs",-0.001
+99,1985,All members,"Banking, Housing, & Urban Affairs",-0.005
+100,1987,All members,"Banking, Housing, & Urban Affairs",-0.033
+101,1989,All members,"Banking, Housing, & Urban Affairs",-0.035
+102,1991,All members,"Banking, Housing, & Urban Affairs",-0.036
+103,1993,All members,"Banking, Housing, & Urban Affairs",-0.056
+104,1995,All members,"Banking, Housing, & Urban Affairs",0.049
+105,1997,All members,"Banking, Housing, & Urban Affairs",0.063
+106,1999,All members,"Banking, Housing, & Urban Affairs",0.08
+107,2001,All members,"Banking, Housing, & Urban Affairs",0.054
+108,2003,All members,"Banking, Housing, & Urban Affairs",0.041
+109,2005,All members,"Banking, Housing, & Urban Affairs",0.091
+110,2007,All members,"Banking, Housing, & Urban Affairs",0.003
+111,2009,All members,"Banking, Housing, & Urban Affairs",0.009
+112,2011,All members,"Banking, Housing, & Urban Affairs",0.037
+113,2013,All members,"Banking, Housing, & Urban Affairs",0.058
+80,1947,Democrats,"Banking, Housing, & Urban Affairs",-0.316
+81,1949,Democrats,"Banking, Housing, & Urban Affairs",-0.284
+82,1951,Democrats,"Banking, Housing, & Urban Affairs",-0.127
+83,1953,Democrats,"Banking, Housing, & Urban Affairs",-0.206
+84,1955,Democrats,"Banking, Housing, & Urban Affairs",-0.258
+85,1957,Democrats,"Banking, Housing, & Urban Affairs",-0.204
+86,1959,Democrats,"Banking, Housing, & Urban Affairs",-0.312
+87,1961,Democrats,"Banking, Housing, & Urban Affairs",-0.353
+88,1963,Democrats,"Banking, Housing, & Urban Affairs",-0.403
+89,1965,Democrats,"Banking, Housing, & Urban Affairs",-0.393
+90,1967,Democrats,"Banking, Housing, & Urban Affairs",-0.329
+91,1969,Democrats,"Banking, Housing, & Urban Affairs",-0.38
+92,1971,Democrats,"Banking, Housing, & Urban Affairs",-0.335
+93,1973,Democrats,"Banking, Housing, & Urban Affairs",-0.35
+94,1975,Democrats,"Banking, Housing, & Urban Affairs",-0.333
+95,1977,Democrats,"Banking, Housing, & Urban Affairs",-0.354
+96,1979,Democrats,"Banking, Housing, & Urban Affairs",-0.394
+97,1981,Democrats,"Banking, Housing, & Urban Affairs",-0.412
+98,1983,Democrats,"Banking, Housing, & Urban Affairs",-0.397
+99,1985,Democrats,"Banking, Housing, & Urban Affairs",-0.387
+100,1987,Democrats,"Banking, Housing, & Urban Affairs",-0.321
+101,1989,Democrats,"Banking, Housing, & Urban Affairs",-0.346
+102,1991,Democrats,"Banking, Housing, & Urban Affairs",-0.346
+103,1993,Democrats,"Banking, Housing, & Urban Affairs",-0.376
+104,1995,Democrats,"Banking, Housing, & Urban Affairs",-0.441
+105,1997,Democrats,"Banking, Housing, & Urban Affairs",-0.455
+106,1999,Democrats,"Banking, Housing, & Urban Affairs",-0.408
+107,2001,Democrats,"Banking, Housing, & Urban Affairs",-0.371
+108,2003,Democrats,"Banking, Housing, & Urban Affairs",-0.371
+109,2005,Democrats,"Banking, Housing, & Urban Affairs",-0.443
+110,2007,Democrats,"Banking, Housing, & Urban Affairs",-0.437
+111,2009,Democrats,"Banking, Housing, & Urban Affairs",-0.381
+112,2011,Democrats,"Banking, Housing, & Urban Affairs",-0.395
+113,2013,Democrats,"Banking, Housing, & Urban Affairs",-0.366
+80,1947,Republicans,"Banking, Housing, & Urban Affairs",0.313
+81,1949,Republicans,"Banking, Housing, & Urban Affairs",0.284
+82,1951,Republicans,"Banking, Housing, & Urban Affairs",0.392
+83,1953,Republicans,"Banking, Housing, & Urban Affairs",0.312
+84,1955,Republicans,"Banking, Housing, & Urban Affairs",0.26
+85,1957,Republicans,"Banking, Housing, & Urban Affairs",0.257
+86,1959,Republicans,"Banking, Housing, & Urban Affairs",0.229
+87,1961,Republicans,"Banking, Housing, & Urban Affairs",0.184
+88,1963,Republicans,"Banking, Housing, & Urban Affairs",0.377
+89,1965,Republicans,"Banking, Housing, & Urban Affairs",0.484
+90,1967,Republicans,"Banking, Housing, & Urban Affairs",0.246
+91,1969,Republicans,"Banking, Housing, & Urban Affairs",0.09
+92,1971,Republicans,"Banking, Housing, & Urban Affairs",0.242
+93,1973,Republicans,"Banking, Housing, & Urban Affairs",0.205
+94,1975,Republicans,"Banking, Housing, & Urban Affairs",0.292
+95,1977,Republicans,"Banking, Housing, & Urban Affairs",0.309
+96,1979,Republicans,"Banking, Housing, & Urban Affairs",0.34
+97,1981,Republicans,"Banking, Housing, & Urban Affairs",0.287
+98,1983,Republicans,"Banking, Housing, & Urban Affairs",0.35
+99,1985,Republicans,"Banking, Housing, & Urban Affairs",0.377
+100,1987,Republicans,"Banking, Housing, & Urban Affairs",0.328
+101,1989,Republicans,"Banking, Housing, & Urban Affairs",0.307
+102,1991,Republicans,"Banking, Housing, & Urban Affairs",0.305
+103,1993,Republicans,"Banking, Housing, & Urban Affairs",0.384
+104,1995,Republicans,"Banking, Housing, & Urban Affairs",0.431
+105,1997,Republicans,"Banking, Housing, & Urban Affairs",0.477
+106,1999,Republicans,"Banking, Housing, & Urban Affairs",0.479
+107,2001,Republicans,"Banking, Housing, & Urban Affairs",0.478
+108,2003,Republicans,"Banking, Housing, & Urban Affairs",0.416
+109,2005,Republicans,"Banking, Housing, & Urban Affairs",0.528
+110,2007,Republicans,"Banking, Housing, & Urban Affairs",0.486
+111,2009,Republicans,"Banking, Housing, & Urban Affairs",0.515
+112,2011,Republicans,"Banking, Housing, & Urban Affairs",0.688
+113,2013,Republicans,"Banking, Housing, & Urban Affairs",0.75
+80,1947,All members,Budget,n.a.
+81,1949,All members,Budget,n.a.
+82,1951,All members,Budget,n.a.
+83,1953,All members,Budget,n.a.
+84,1955,All members,Budget,n.a.
+85,1957,All members,Budget,n.a.
+86,1959,All members,Budget,n.a.
+87,1961,All members,Budget,n.a.
+88,1963,All members,Budget,n.a.
+89,1965,All members,Budget,n.a.
+90,1967,All members,Budget,n.a.
+91,1969,All members,Budget,n.a.
+92,1971,All members,Budget,n.a.
+93,1973,All members,Budget,-0.138
+94,1975,All members,Budget,-0.107
+95,1977,All members,Budget,-0.137
+96,1979,All members,Budget,-0.11
+97,1981,All members,Budget,0.025
+98,1983,All members,Budget,0.025
+99,1985,All members,Budget,0.009
+100,1987,All members,Budget,-0.009
+101,1989,All members,Budget,-0.005
+102,1991,All members,Budget,0.013
+103,1993,All members,Budget,-0.047
+104,1995,All members,Budget,0.023
+105,1997,All members,Budget,-0.021
+106,1999,All members,Budget,-0.017
+107,2001,All members,Budget,-0.019
+108,2003,All members,Budget,0.042
+109,2005,All members,Budget,0.084
+110,2007,All members,Budget,-0.027
+111,2009,All members,Budget,-0.009
+112,2011,All members,Budget,0.067
+113,2013,All members,Budget,0.047
+80,1947,Democrats,Budget,n.a.
+81,1949,Democrats,Budget,n.a.
+82,1951,Democrats,Budget,n.a.
+83,1953,Democrats,Budget,n.a.
+84,1955,Democrats,Budget,n.a.
+85,1957,Democrats,Budget,n.a.
+86,1959,Democrats,Budget,n.a.
+87,1961,Democrats,Budget,n.a.
+88,1963,Democrats,Budget,n.a.
+89,1965,Democrats,Budget,n.a.
+90,1967,Democrats,Budget,n.a.
+91,1969,Democrats,Budget,n.a.
+92,1971,Democrats,Budget,n.a.
+93,1973,Democrats,Budget,-0.408
+94,1975,Democrats,Budget,-0.371
+95,1977,Democrats,Budget,-0.381
+96,1979,Democrats,Budget,-0.345
+97,1981,Democrats,Budget,-0.337
+98,1983,Democrats,Budget,-0.34
+99,1985,Democrats,Budget,-0.348
+100,1987,Democrats,Budget,-0.319
+101,1989,Democrats,Budget,-0.325
+102,1991,Democrats,Budget,-0.341
+103,1993,Democrats,Budget,-0.395
+104,1995,Democrats,Budget,-0.396
+105,1997,Democrats,Budget,-0.472
+106,1999,Democrats,Budget,-0.473
+107,2001,Democrats,Budget,-0.426
+108,2003,Democrats,Budget,-0.436
+109,2005,Democrats,Budget,-0.47
+110,2007,Democrats,Budget,-0.537
+111,2009,Democrats,Budget,-0.425
+112,2011,Democrats,Budget,-0.388
+113,2013,Democrats,Budget,-0.385
+80,1947,Republicans,Budget,n.a.
+81,1949,Republicans,Budget,n.a.
+82,1951,Republicans,Budget,n.a.
+83,1953,Republicans,Budget,n.a.
+84,1955,Republicans,Budget,n.a.
+85,1957,Republicans,Budget,n.a.
+86,1959,Republicans,Budget,n.a.
+87,1961,Republicans,Budget,n.a.
+88,1963,Republicans,Budget,n.a.
+89,1965,Republicans,Budget,n.a.
+90,1967,Republicans,Budget,n.a.
+91,1969,Republicans,Budget,n.a.
+92,1971,Republicans,Budget,n.a.
+93,1973,Republicans,Budget,0.268
+94,1975,Republicans,Budget,0.295
+95,1977,Republicans,Budget,0.268
+96,1979,Republicans,Budget,0.243
+97,1981,Republicans,Budget,0.326
+98,1983,Republicans,Budget,0.329
+99,1985,Republicans,Budget,0.307
+100,1987,Republicans,Budget,0.301
+101,1989,Republicans,Budget,0.344
+102,1991,Republicans,Budget,0.403
+103,1993,Republicans,Budget,0.419
+104,1995,Republicans,Budget,0.373
+105,1997,Republicans,Budget,0.355
+106,1999,Republicans,Budget,0.363
+107,2001,Republicans,Budget,0.387
+108,2003,Republicans,Budget,0.48
+109,2005,Republicans,Budget,0.546
+110,2007,Republicans,Budget,0.53
+111,2009,Republicans,Budget,0.532
+112,2011,Republicans,Budget,0.563
+113,2013,Republicans,Budget,0.565
+80,1947,All members,"Commerce, Science, & Transportation",0.094
+81,1949,All members,"Commerce, Science, & Transportation",-0.018
+82,1951,All members,"Commerce, Science, & Transportation",0.089
+83,1953,All members,"Commerce, Science, & Transportation",0.048
+84,1955,All members,"Commerce, Science, & Transportation",0.058
+85,1957,All members,"Commerce, Science, & Transportation",0.097
+86,1959,All members,"Commerce, Science, & Transportation",-0.095
+87,1961,All members,"Commerce, Science, & Transportation",-0.093
+88,1963,All members,"Commerce, Science, & Transportation",-0.156
+89,1965,All members,"Commerce, Science, & Transportation",-0.146
+90,1967,All members,"Commerce, Science, & Transportation",-0.115
+91,1969,All members,"Commerce, Science, & Transportation",-0.102
+92,1971,All members,"Commerce, Science, & Transportation",-0.094
+93,1973,All members,"Commerce, Science, & Transportation",-0.105
+94,1975,All members,"Commerce, Science, & Transportation",-0.151
+95,1977,All members,"Commerce, Science, & Transportation",-0.148
+96,1979,All members,"Commerce, Science, & Transportation",-0.049
+97,1981,All members,"Commerce, Science, & Transportation",0.011
+98,1983,All members,"Commerce, Science, & Transportation",-0.002
+99,1985,All members,"Commerce, Science, & Transportation",-0.01
+100,1987,All members,"Commerce, Science, & Transportation",-0.077
+101,1989,All members,"Commerce, Science, & Transportation",-0.049
+102,1991,All members,"Commerce, Science, & Transportation",-0.046
+103,1993,All members,"Commerce, Science, & Transportation",-0.014
+104,1995,All members,"Commerce, Science, & Transportation",0.023
+105,1997,All members,"Commerce, Science, & Transportation",0.044
+106,1999,All members,"Commerce, Science, & Transportation",0.046
+107,2001,All members,"Commerce, Science, & Transportation",-0.014
+108,2003,All members,"Commerce, Science, & Transportation",-0.009
+109,2005,All members,"Commerce, Science, & Transportation",0.069
+110,2007,All members,"Commerce, Science, & Transportation",-0.017
+111,2009,All members,"Commerce, Science, & Transportation",0.008
+112,2011,All members,"Commerce, Science, & Transportation",0.056
+113,2013,All members,"Commerce, Science, & Transportation",0.045
+80,1947,Democrats,"Commerce, Science, & Transportation",-0.206
+81,1949,Democrats,"Commerce, Science, & Transportation",-0.234
+82,1951,Democrats,"Commerce, Science, & Transportation",-0.173
+83,1953,Democrats,"Commerce, Science, & Transportation",-0.179
+84,1955,Democrats,"Commerce, Science, & Transportation",-0.149
+85,1957,Democrats,"Commerce, Science, & Transportation",-0.164
+86,1959,Democrats,"Commerce, Science, & Transportation",-0.291
+87,1961,Democrats,"Commerce, Science, & Transportation",-0.289
+88,1963,Democrats,"Commerce, Science, & Transportation",-0.32
+89,1965,Democrats,"Commerce, Science, & Transportation",-0.342
+90,1967,Democrats,"Commerce, Science, & Transportation",-0.283
+91,1969,Democrats,"Commerce, Science, & Transportation",-0.319
+92,1971,Democrats,"Commerce, Science, & Transportation",-0.306
+93,1973,Democrats,"Commerce, Science, & Transportation",-0.324
+94,1975,Democrats,"Commerce, Science, & Transportation",-0.321
+95,1977,Democrats,"Commerce, Science, & Transportation",-0.275
+96,1979,Democrats,"Commerce, Science, & Transportation",-0.251
+97,1981,Democrats,"Commerce, Science, & Transportation",-0.225
+98,1983,Democrats,"Commerce, Science, & Transportation",-0.255
+99,1985,Democrats,"Commerce, Science, & Transportation",-0.283
+100,1987,Democrats,"Commerce, Science, & Transportation",-0.327
+101,1989,Democrats,"Commerce, Science, & Transportation",-0.28
+102,1991,Democrats,"Commerce, Science, & Transportation",-0.282
+103,1993,Democrats,"Commerce, Science, & Transportation",-0.294
+104,1995,Democrats,"Commerce, Science, & Transportation",-0.3
+105,1997,Democrats,"Commerce, Science, & Transportation",-0.327
+106,1999,Democrats,"Commerce, Science, & Transportation",-0.325
+107,2001,Democrats,"Commerce, Science, & Transportation",-0.348
+108,2003,Democrats,"Commerce, Science, & Transportation",-0.378
+109,2005,Democrats,"Commerce, Science, & Transportation",-0.391
+110,2007,Democrats,"Commerce, Science, & Transportation",-0.422
+111,2009,Democrats,"Commerce, Science, & Transportation",-0.363
+112,2011,Democrats,"Commerce, Science, & Transportation",-0.356
+113,2013,Democrats,"Commerce, Science, & Transportation",-0.361
+80,1947,Republicans,"Commerce, Science, & Transportation",0.351
+81,1949,Republicans,"Commerce, Science, & Transportation",0.328
+82,1951,Republicans,"Commerce, Science, & Transportation",0.395
+83,1953,Republicans,"Commerce, Science, & Transportation",0.246
+84,1955,Republicans,"Commerce, Science, & Transportation",0.266
+85,1957,Republicans,"Commerce, Science, & Transportation",0.321
+86,1959,Republicans,"Commerce, Science, & Transportation",0.232
+87,1961,Republicans,"Commerce, Science, & Transportation",0.234
+88,1963,Republicans,"Commerce, Science, & Transportation",0.204
+89,1965,Republicans,"Commerce, Science, & Transportation",0.247
+90,1967,Republicans,"Commerce, Science, & Transportation",0.222
+91,1969,Republicans,"Commerce, Science, & Transportation",0.197
+92,1971,Republicans,"Commerce, Science, & Transportation",0.172
+93,1973,Republicans,"Commerce, Science, & Transportation",0.208
+94,1975,Republicans,"Commerce, Science, & Transportation",0.12
+95,1977,Republicans,"Commerce, Science, & Transportation",0.232
+96,1979,Republicans,"Commerce, Science, & Transportation",0.239
+97,1981,Republicans,"Commerce, Science, & Transportation",0.221
+98,1983,Republicans,"Commerce, Science, & Transportation",0.223
+99,1985,Republicans,"Commerce, Science, & Transportation",0.232
+100,1987,Republicans,"Commerce, Science, & Transportation",0.229
+101,1989,Republicans,"Commerce, Science, & Transportation",0.269
+102,1991,Republicans,"Commerce, Science, & Transportation",0.278
+103,1993,Republicans,"Commerce, Science, & Transportation",0.296
+104,1995,Republicans,"Commerce, Science, & Transportation",0.314
+105,1997,Republicans,"Commerce, Science, & Transportation",0.347
+106,1999,Republicans,"Commerce, Science, & Transportation",0.35
+107,2001,Republicans,"Commerce, Science, & Transportation",0.32
+108,2003,Republicans,"Commerce, Science, & Transportation",0.33
+109,2005,Republicans,"Commerce, Science, & Transportation",0.453
+110,2007,Republicans,"Commerce, Science, & Transportation",0.425
+111,2009,Republicans,"Commerce, Science, & Transportation",0.481
+112,2011,Republicans,"Commerce, Science, & Transportation",0.551
+113,2013,Republicans,"Commerce, Science, & Transportation",0.533
+80,1947,All members,Energy & Natural Resources,0.144
+81,1949,All members,Energy & Natural Resources,0.036
+82,1951,All members,Energy & Natural Resources,0.022
+83,1953,All members,Energy & Natural Resources,0.087
+84,1955,All members,Energy & Natural Resources,-0.004
+85,1957,All members,Energy & Natural Resources,-0.059
+86,1959,All members,Energy & Natural Resources,-0.205
+87,1961,All members,Energy & Natural Resources,-0.159
+88,1963,All members,Energy & Natural Resources,-0.127
+89,1965,All members,Energy & Natural Resources,-0.169
+90,1967,All members,Energy & Natural Resources,-0.17
+91,1969,All members,Energy & Natural Resources,-0.112
+92,1971,All members,Energy & Natural Resources,-0.077
+93,1973,All members,Energy & Natural Resources,-0.003
+94,1975,All members,Energy & Natural Resources,-0.074
+95,1977,All members,Energy & Natural Resources,-0.098
+96,1979,All members,Energy & Natural Resources,-0.135
+97,1981,All members,Energy & Natural Resources,-0.007
+98,1983,All members,Energy & Natural Resources,-0.028
+99,1985,All members,Energy & Natural Resources,0.009
+100,1987,All members,Energy & Natural Resources,-0.011
+101,1989,All members,Energy & Natural Resources,0.013
+102,1991,All members,Energy & Natural Resources,-0.007
+103,1993,All members,Energy & Natural Resources,-0.012
+104,1995,All members,Energy & Natural Resources,0.035
+105,1997,All members,Energy & Natural Resources,0.072
+106,1999,All members,Energy & Natural Resources,0.07
+107,2001,All members,Energy & Natural Resources,0.035
+108,2003,All members,Energy & Natural Resources,0.051
+109,2005,All members,Energy & Natural Resources,0.069
+110,2007,All members,Energy & Natural Resources,0.008
+111,2009,All members,Energy & Natural Resources,0.016
+112,2011,All members,Energy & Natural Resources,0.066
+113,2013,All members,Energy & Natural Resources,0.094
+80,1947,Democrats,Energy & Natural Resources,-0.289
+81,1949,Democrats,Energy & Natural Resources,-0.276
+82,1951,Democrats,Energy & Natural Resources,-0.294
+83,1953,Democrats,Energy & Natural Resources,-0.204
+84,1955,Democrats,Energy & Natural Resources,-0.318
+85,1957,Democrats,Energy & Natural Resources,-0.405
+86,1959,Democrats,Energy & Natural Resources,-0.448
+87,1961,Democrats,Energy & Natural Resources,-0.417
+88,1963,Democrats,Energy & Natural Resources,-0.419
+89,1965,Democrats,Energy & Natural Resources,-0.418
+90,1967,Democrats,Energy & Natural Resources,-0.416
+91,1969,Democrats,Energy & Natural Resources,-0.403
+92,1971,Democrats,Energy & Natural Resources,-0.373
+93,1973,Democrats,Energy & Natural Resources,-0.384
+94,1975,Democrats,Energy & Natural Resources,-0.356
+95,1977,Democrats,Energy & Natural Resources,-0.376
+96,1979,Democrats,Energy & Natural Resources,-0.355
+97,1981,Democrats,Energy & Natural Resources,-0.352
+98,1983,Democrats,Energy & Natural Resources,-0.362
+99,1985,Democrats,Energy & Natural Resources,-0.347
+100,1987,Democrats,Energy & Natural Resources,-0.357
+101,1989,Democrats,Energy & Natural Resources,-0.323
+102,1991,Democrats,Energy & Natural Resources,-0.331
+103,1993,Democrats,Energy & Natural Resources,-0.323
+104,1995,Democrats,Energy & Natural Resources,-0.375
+105,1997,Democrats,Energy & Natural Resources,-0.341
+106,1999,Democrats,Energy & Natural Resources,-0.323
+107,2001,Democrats,Energy & Natural Resources,-0.352
+108,2003,Democrats,Energy & Natural Resources,-0.354
+109,2005,Democrats,Energy & Natural Resources,-0.391
+110,2007,Democrats,Energy & Natural Resources,-0.419
+111,2009,Democrats,Energy & Natural Resources,-0.346
+112,2011,Democrats,Energy & Natural Resources,-0.338
+113,2013,Democrats,Energy & Natural Resources,-0.345
+80,1947,Republicans,Energy & Natural Resources,0.415
+81,1949,Republicans,Energy & Natural Resources,0.4
+82,1951,Republicans,Energy & Natural Resources,0.391
+83,1953,Republicans,Energy & Natural Resources,0.342
+84,1955,Republicans,Energy & Natural Resources,0.354
+85,1957,Republicans,Energy & Natural Resources,0.335
+86,1959,Republicans,Energy & Natural Resources,0.28
+87,1961,Republicans,Energy & Natural Resources,0.316
+88,1963,Republicans,Energy & Natural Resources,0.409
+89,1965,Republicans,Energy & Natural Resources,0.379
+90,1967,Republicans,Energy & Natural Resources,0.281
+91,1969,Republicans,Energy & Natural Resources,0.304
+92,1971,Republicans,Energy & Natural Resources,0.304
+93,1973,Republicans,Energy & Natural Resources,0.427
+94,1975,Republicans,Energy & Natural Resources,0.436
+95,1977,Republicans,Energy & Natural Resources,0.411
+96,1979,Republicans,Energy & Natural Resources,0.212
+97,1981,Republicans,Energy & Natural Resources,0.275
+98,1983,Republicans,Energy & Natural Resources,0.245
+99,1985,Republicans,Energy & Natural Resources,0.294
+100,1987,Republicans,Energy & Natural Resources,0.3
+101,1989,Republicans,Energy & Natural Resources,0.386
+102,1991,Republicans,Energy & Natural Resources,0.388
+103,1993,Republicans,Energy & Natural Resources,0.369
+104,1995,Republicans,Energy & Natural Resources,0.364
+105,1997,Republicans,Energy & Natural Resources,0.409
+106,1999,Republicans,Energy & Natural Resources,0.392
+107,2001,Republicans,Energy & Natural Resources,0.422
+108,2003,Republicans,Energy & Natural Resources,0.423
+109,2005,Republicans,Energy & Natural Resources,0.453
+110,2007,Republicans,Energy & Natural Resources,0.475
+111,2009,Republicans,Energy & Natural Resources,0.486
+112,2011,Republicans,Energy & Natural Resources,0.504
+113,2013,Republicans,Energy & Natural Resources,0.573
+80,1947,All members,Environment & Public Works,0.19
+81,1949,All members,Environment & Public Works,0.11
+82,1951,All members,Environment & Public Works,0.147
+83,1953,All members,Environment & Public Works,0.061
+84,1955,All members,Environment & Public Works,-0.026
+85,1957,All members,Environment & Public Works,-0.059
+86,1959,All members,Environment & Public Works,-0.238
+87,1961,All members,Environment & Public Works,-0.236
+88,1963,All members,Environment & Public Works,-0.259
+89,1965,All members,Environment & Public Works,-0.254
+90,1967,All members,Environment & Public Works,-0.156
+91,1969,All members,Environment & Public Works,-0.136
+92,1971,All members,Environment & Public Works,-0.08
+93,1973,All members,Environment & Public Works,-0.048
+94,1975,All members,Environment & Public Works,-0.095
+95,1977,All members,Environment & Public Works,-0.128
+96,1979,All members,Environment & Public Works,-0.142
+97,1981,All members,Environment & Public Works,0.004
+98,1983,All members,Environment & Public Works,0.006
+99,1985,All members,Environment & Public Works,-0.025
+100,1987,All members,Environment & Public Works,-0.102
+101,1989,All members,Environment & Public Works,-0.066
+102,1991,All members,Environment & Public Works,-0.145
+103,1993,All members,Environment & Public Works,-0.081
+104,1995,All members,Environment & Public Works,0.1
+105,1997,All members,Environment & Public Works,0.09
+106,1999,All members,Environment & Public Works,0.051
+107,2001,All members,Environment & Public Works,-0.027
+108,2003,All members,Environment & Public Works,0.027
+109,2005,All members,Environment & Public Works,0.065
+110,2007,All members,Environment & Public Works,-0.02
+111,2009,All members,Environment & Public Works,-0.104
+112,2011,All members,Environment & Public Works,-0.012
+113,2013,All members,Environment & Public Works,0.05
+80,1947,Democrats,Environment & Public Works,-0.004
+81,1949,Democrats,Environment & Public Works,-0.097
+82,1951,Democrats,Environment & Public Works,-0.086
+83,1953,Democrats,Environment & Public Works,-0.12
+84,1955,Democrats,Environment & Public Works,-0.386
+85,1957,Democrats,Environment & Public Works,-0.41
+86,1959,Democrats,Environment & Public Works,-0.444
+87,1961,Democrats,Environment & Public Works,-0.44
+88,1963,Democrats,Environment & Public Works,-0.44
+89,1965,Democrats,Environment & Public Works,-0.43
+90,1967,Democrats,Environment & Public Works,-0.384
+91,1969,Democrats,Environment & Public Works,-0.357
+92,1971,Democrats,Environment & Public Works,-0.307
+93,1973,Democrats,Environment & Public Works,-0.355
+94,1975,Democrats,Environment & Public Works,-0.316
+95,1977,Democrats,Environment & Public Works,-0.305
+96,1979,Democrats,Environment & Public Works,-0.347
+97,1981,Democrats,Environment & Public Works,-0.327
+98,1983,Democrats,Environment & Public Works,-0.328
+99,1985,Democrats,Environment & Public Works,-0.359
+100,1987,Democrats,Environment & Public Works,-0.344
+101,1989,Democrats,Environment & Public Works,-0.318
+102,1991,Democrats,Environment & Public Works,-0.368
+103,1993,Democrats,Environment & Public Works,-0.396
+104,1995,Democrats,Environment & Public Works,-0.364
+105,1997,Democrats,Environment & Public Works,-0.378
+106,1999,Democrats,Environment & Public Works,-0.384
+107,2001,Democrats,Environment & Public Works,-0.392
+108,2003,Democrats,Environment & Public Works,-0.369
+109,2005,Democrats,Environment & Public Works,-0.425
+110,2007,Democrats,Environment & Public Works,-0.469
+111,2009,Democrats,Environment & Public Works,-0.44
+112,2011,Democrats,Environment & Public Works,-0.441
+113,2013,Democrats,Environment & Public Works,-0.435
+80,1947,Republicans,Environment & Public Works,0.357
+81,1949,Republicans,Environment & Public Works,0.441
+82,1951,Republicans,Environment & Public Works,0.381
+83,1953,Republicans,Environment & Public Works,0.242
+84,1955,Republicans,Environment & Public Works,0.334
+85,1957,Republicans,Environment & Public Works,0.351
+86,1959,Republicans,Environment & Public Works,0.175
+87,1961,Republicans,Environment & Public Works,0.14
+88,1963,Republicans,Environment & Public Works,0.175
+89,1965,Republicans,Environment & Public Works,0.17
+90,1967,Republicans,Environment & Public Works,0.223
+91,1969,Republicans,Environment & Public Works,0.195
+92,1971,Republicans,Environment & Public Works,0.163
+93,1973,Republicans,Environment & Public Works,0.33
+94,1975,Republicans,Environment & Public Works,0.251
+95,1977,Republicans,Environment & Public Works,0.192
+96,1979,Republicans,Environment & Public Works,0.132
+97,1981,Republicans,Environment & Public Works,0.262
+98,1983,Republicans,Environment & Public Works,0.266
+99,1985,Republicans,Environment & Public Works,0.267
+100,1987,Republicans,Environment & Public Works,0.21
+101,1989,Republicans,Environment & Public Works,0.257
+102,1991,Republicans,Environment & Public Works,0.19
+103,1993,Republicans,Environment & Public Works,0.369
+104,1995,Republicans,Environment & Public Works,0.461
+105,1997,Republicans,Environment & Public Works,0.464
+106,1999,Republicans,Environment & Public Works,0.399
+107,2001,Republicans,Environment & Public Works,0.337
+108,2003,Republicans,Environment & Public Works,0.381
+109,2005,Republicans,Environment & Public Works,0.458
+110,2007,Republicans,Environment & Public Works,0.48
+111,2009,Republicans,Environment & Public Works,0.473
+112,2011,Republicans,Environment & Public Works,0.525
+113,2013,Republicans,Environment & Public Works,0.655
+80,1947,All members,Finance,0.18
+81,1949,All members,Finance,0.159
+82,1951,All members,Finance,0.218
+83,1953,All members,Finance,0.226
+84,1955,All members,Finance,0.14
+85,1957,All members,Finance,0.127
+86,1959,All members,Finance,0.047
+87,1961,All members,Finance,0.005
+88,1963,All members,Finance,-0.022
+89,1965,All members,Finance,-0.031
+90,1967,All members,Finance,-0.064
+91,1969,All members,Finance,0.019
+92,1971,All members,Finance,0.032
+93,1973,All members,Finance,-0.004
+94,1975,All members,Finance,-0.029
+95,1977,All members,Finance,-0.013
+96,1979,All members,Finance,-0.08
+97,1981,All members,Finance,0.042
+98,1983,All members,Finance,0.017
+99,1985,All members,Finance,0.019
+100,1987,All members,Finance,-0.088
+101,1989,All members,Finance,-0.085
+102,1991,All members,Finance,-0.088
+103,1993,All members,Finance,-0.061
+104,1995,All members,Finance,0.003
+105,1997,All members,Finance,0.036
+106,1999,All members,Finance,0.057
+107,2001,All members,Finance,0.045
+108,2003,All members,Finance,0.081
+109,2005,All members,Finance,0.096
+110,2007,All members,Finance,-0.004
+111,2009,All members,Finance,0.016
+112,2011,All members,Finance,0.02
+113,2013,All members,Finance,0.088
+80,1947,Democrats,Finance,-0.1
+81,1949,Democrats,Finance,-0.065
+82,1951,Democrats,Finance,0.037
+83,1953,Democrats,Finance,0.035
+84,1955,Democrats,Finance,-0.065
+85,1957,Democrats,Finance,-0.149
+86,1959,Democrats,Finance,-0.182
+87,1961,Democrats,Finance,-0.234
+88,1963,Democrats,Finance,-0.27
+89,1965,Democrats,Finance,-0.283
+90,1967,Democrats,Finance,-0.336
+91,1969,Democrats,Finance,-0.299
+92,1971,Democrats,Finance,-0.341
+93,1973,Democrats,Finance,-0.345
+94,1975,Democrats,Finance,-0.348
+95,1977,Democrats,Finance,-0.28
+96,1979,Democrats,Finance,-0.272
+97,1981,Democrats,Finance,-0.27
+98,1983,Democrats,Finance,-0.273
+99,1985,Democrats,Finance,-0.28
+100,1987,Democrats,Finance,-0.342
+101,1989,Democrats,Finance,-0.347
+102,1991,Democrats,Finance,-0.329
+103,1993,Democrats,Finance,-0.347
+104,1995,Democrats,Finance,-0.343
+105,1997,Democrats,Finance,-0.313
+106,1999,Democrats,Finance,-0.296
+107,2001,Democrats,Finance,-0.301
+108,2003,Democrats,Finance,-0.3
+109,2005,Democrats,Finance,-0.357
+110,2007,Democrats,Finance,-0.389
+111,2009,Democrats,Finance,-0.351
+112,2011,Democrats,Finance,-0.351
+113,2013,Democrats,Finance,-0.351
+80,1947,Republicans,Finance,0.419
+81,1949,Republicans,Finance,0.421
+82,1951,Republicans,Finance,0.43
+83,1953,Republicans,Finance,0.394
+84,1955,Republicans,Finance,0.375
+85,1957,Republicans,Finance,0.442
+86,1959,Republicans,Finance,0.468
+87,1961,Republicans,Finance,0.442
+88,1963,Republicans,Finance,0.431
+89,1965,Republicans,Finance,0.432
+90,1967,Republicans,Finance,0.433
+91,1969,Republicans,Finance,0.474
+92,1971,Republicans,Finance,0.436
+93,1973,Republicans,Finance,0.404
+94,1975,Republicans,Finance,0.388
+95,1977,Republicans,Finance,0.342
+96,1979,Republicans,Finance,0.138
+97,1981,Republicans,Finance,0.245
+98,1983,Republicans,Finance,0.254
+99,1985,Republicans,Finance,0.263
+100,1987,Republicans,Finance,0.223
+101,1989,Republicans,Finance,0.234
+102,1991,Republicans,Finance,0.205
+103,1993,Republicans,Finance,0.257
+104,1995,Republicans,Finance,0.286
+105,1997,Republicans,Finance,0.322
+106,1999,Republicans,Finance,0.347
+107,2001,Republicans,Finance,0.39
+108,2003,Republicans,Finance,0.43
+109,2005,Republicans,Finance,0.467
+110,2007,Republicans,Finance,0.419
+111,2009,Republicans,Finance,0.493
+112,2011,Republicans,Finance,0.504
+113,2013,Republicans,Finance,0.567
+80,1947,All members,Foreign Relations,-0.022
+81,1949,All members,Foreign Relations,-0.089
+82,1951,All members,Foreign Relations,-0.058
+83,1953,All members,Foreign Relations,-0.004
+84,1955,All members,Foreign Relations,-0.095
+85,1957,All members,Foreign Relations,-0.11
+86,1959,All members,Foreign Relations,-0.157
+87,1961,All members,Foreign Relations,-0.113
+88,1963,All members,Foreign Relations,-0.125
+89,1965,All members,Foreign Relations,-0.161
+90,1967,All members,Foreign Relations,-0.175
+91,1969,All members,Foreign Relations,-0.163
+92,1971,All members,Foreign Relations,-0.187
+93,1973,All members,Foreign Relations,-0.237
+94,1975,All members,Foreign Relations,-0.229
+95,1977,All members,Foreign Relations,-0.239
+96,1979,All members,Foreign Relations,-0.119
+97,1981,All members,Foreign Relations,-0.063
+98,1983,All members,Foreign Relations,-0.052
+99,1985,All members,Foreign Relations,-0.04
+100,1987,All members,Foreign Relations,-0.071
+101,1989,All members,Foreign Relations,-0.014
+102,1991,All members,Foreign Relations,-0.037
+103,1993,All members,Foreign Relations,-0.105
+104,1995,All members,Foreign Relations,0.034
+105,1997,All members,Foreign Relations,0.032
+106,1999,All members,Foreign Relations,0.018
+107,2001,All members,Foreign Relations,-0.066
+108,2003,All members,Foreign Relations,-0.064
+109,2005,All members,Foreign Relations,-0.042
+110,2007,All members,Foreign Relations,-0.074
+111,2009,All members,Foreign Relations,-0.018
+112,2011,All members,Foreign Relations,0.078
+113,2013,All members,Foreign Relations,0.025
+80,1947,Democrats,Foreign Relations,-0.268
+81,1949,Democrats,Foreign Relations,-0.243
+82,1951,Democrats,Foreign Relations,-0.166
+83,1953,Democrats,Foreign Relations,-0.221
+84,1955,Democrats,Foreign Relations,-0.279
+85,1957,Democrats,Foreign Relations,-0.381
+86,1959,Democrats,Foreign Relations,-0.335
+87,1961,Democrats,Foreign Relations,-0.339
+88,1963,Democrats,Foreign Relations,-0.324
+89,1965,Democrats,Foreign Relations,-0.354
+90,1967,Democrats,Foreign Relations,-0.411
+91,1969,Democrats,Foreign Relations,-0.355
+92,1971,Democrats,Foreign Relations,-0.341
+93,1973,Democrats,Foreign Relations,-0.394
+94,1975,Democrats,Foreign Relations,-0.396
+95,1977,Democrats,Foreign Relations,-0.371
+96,1979,Democrats,Foreign Relations,-0.361
+97,1981,Democrats,Foreign Relations,-0.38
+98,1983,Democrats,Foreign Relations,-0.378
+99,1985,Democrats,Foreign Relations,-0.381
+100,1987,Democrats,Foreign Relations,-0.435
+101,1989,Democrats,Foreign Relations,-0.405
+102,1991,Democrats,Foreign Relations,-0.411
+103,1993,Democrats,Foreign Relations,-0.44
+104,1995,Democrats,Foreign Relations,-0.445
+105,1997,Democrats,Foreign Relations,-0.489
+106,1999,Democrats,Foreign Relations,-0.527
+107,2001,Democrats,Foreign Relations,-0.51
+108,2003,Democrats,Foreign Relations,-0.506
+109,2005,Democrats,Foreign Relations,-0.53
+110,2007,Democrats,Foreign Relations,-0.521
+111,2009,Democrats,Foreign Relations,-0.425
+112,2011,Democrats,Foreign Relations,-0.404
+113,2013,Democrats,Foreign Relations,-0.402
+80,1947,Republicans,Foreign Relations,0.189
+81,1949,Republicans,Foreign Relations,0.157
+82,1951,Republicans,Foreign Relations,0.093
+83,1953,Republicans,Foreign Relations,0.185
+84,1955,Republicans,Foreign Relations,0.199
+85,1957,Republicans,Foreign Relations,0.2
+86,1959,Republicans,Foreign Relations,0.169
+87,1961,Republicans,Foreign Relations,0.3
+88,1963,Republicans,Foreign Relations,0.355
+89,1965,Republicans,Foreign Relations,0.257
+90,1967,Republicans,Foreign Relations,0.231
+91,1969,Republicans,Foreign Relations,0.125
+92,1971,Republicans,Foreign Relations,0.012
+93,1973,Republicans,Foreign Relations,-0.012
+94,1975,Republicans,Foreign Relations,0.01
+95,1977,Republicans,Foreign Relations,-0.042
+96,1979,Republicans,Foreign Relations,0.244
+97,1981,Republicans,Foreign Relations,0.219
+98,1983,Republicans,Foreign Relations,0.238
+99,1985,Republicans,Foreign Relations,0.263
+100,1987,Republicans,Foreign Relations,0.334
+101,1989,Republicans,Foreign Relations,0.42
+102,1991,Republicans,Foreign Relations,0.43
+103,1993,Republicans,Foreign Relations,0.354
+104,1995,Republicans,Foreign Relations,0.416
+105,1997,Republicans,Foreign Relations,0.448
+106,1999,Republicans,Foreign Relations,0.454
+107,2001,Republicans,Foreign Relations,0.378
+108,2003,Republicans,Foreign Relations,0.334
+109,2005,Republicans,Foreign Relations,0.347
+110,2007,Republicans,Foreign Relations,0.417
+111,2009,Republicans,Foreign Relations,0.542
+112,2011,Republicans,Foreign Relations,0.614
+113,2013,Republicans,Foreign Relations,0.612
+80,1947,All members,"Health, Education, Labor, & Pensions",-0.029
+81,1949,All members,"Health, Education, Labor, & Pensions",-0.214
+82,1951,All members,"Health, Education, Labor, & Pensions",-0.211
+83,1953,All members,"Health, Education, Labor, & Pensions",-0.092
+84,1955,All members,"Health, Education, Labor, & Pensions",-0.183
+85,1957,All members,"Health, Education, Labor, & Pensions",-0.165
+86,1959,All members,"Health, Education, Labor, & Pensions",-0.245
+87,1961,All members,"Health, Education, Labor, & Pensions",-0.268
+88,1963,All members,"Health, Education, Labor, & Pensions",-0.226
+89,1965,All members,"Health, Education, Labor, & Pensions",-0.287
+90,1967,All members,"Health, Education, Labor, & Pensions",-0.235
+91,1969,All members,"Health, Education, Labor, & Pensions",-0.225
+92,1971,All members,"Health, Education, Labor, & Pensions",-0.243
+93,1973,All members,"Health, Education, Labor, & Pensions",-0.269
+94,1975,All members,"Health, Education, Labor, & Pensions",-0.234
+95,1977,All members,"Health, Education, Labor, & Pensions",-0.258
+96,1979,All members,"Health, Education, Labor, & Pensions",-0.173
+97,1981,All members,"Health, Education, Labor, & Pensions",-0.021
+98,1983,All members,"Health, Education, Labor, & Pensions",-0.032
+99,1985,All members,"Health, Education, Labor, & Pensions",-0.046
+100,1987,All members,"Health, Education, Labor, & Pensions",-0.151
+101,1989,All members,"Health, Education, Labor, & Pensions",-0.185
+102,1991,All members,"Health, Education, Labor, & Pensions",-0.209
+103,1993,All members,"Health, Education, Labor, & Pensions",-0.194
+104,1995,All members,"Health, Education, Labor, & Pensions",-0.067
+105,1997,All members,"Health, Education, Labor, & Pensions",-0.05
+106,1999,All members,"Health, Education, Labor, & Pensions",-0.032
+107,2001,All members,"Health, Education, Labor, & Pensions",-0.076
+108,2003,All members,"Health, Education, Labor, & Pensions",-0.011
+109,2005,All members,"Health, Education, Labor, & Pensions",0.06
+110,2007,All members,"Health, Education, Labor, & Pensions",-0.034
+111,2009,All members,"Health, Education, Labor, & Pensions",-0.047
+112,2011,All members,"Health, Education, Labor, & Pensions",-0.018
+113,2013,All members,"Health, Education, Labor, & Pensions",-0.013
+80,1947,Democrats,"Health, Education, Labor, & Pensions",-0.347
+81,1949,Democrats,"Health, Education, Labor, & Pensions",-0.405
+82,1951,Democrats,"Health, Education, Labor, & Pensions",-0.449
+83,1953,Democrats,"Health, Education, Labor, & Pensions",-0.477
+84,1955,Democrats,"Health, Education, Labor, & Pensions",-0.514
+85,1957,Democrats,"Health, Education, Labor, & Pensions",-0.537
+86,1959,Democrats,"Health, Education, Labor, & Pensions",-0.499
+87,1961,Democrats,"Health, Education, Labor, & Pensions",-0.477
+88,1963,Democrats,"Health, Education, Labor, & Pensions",-0.492
+89,1965,Democrats,"Health, Education, Labor, & Pensions",-0.523
+90,1967,Democrats,"Health, Education, Labor, & Pensions",-0.519
+91,1969,Democrats,"Health, Education, Labor, & Pensions",-0.473
+92,1971,Democrats,"Health, Education, Labor, & Pensions",-0.461
+93,1973,Democrats,"Health, Education, Labor, & Pensions",-0.458
+94,1975,Democrats,"Health, Education, Labor, & Pensions",-0.453
+95,1977,Democrats,"Health, Education, Labor, & Pensions",-0.422
+96,1979,Democrats,"Health, Education, Labor, & Pensions",-0.459
+97,1981,Democrats,"Health, Education, Labor, & Pensions",-0.449
+98,1983,Democrats,"Health, Education, Labor, & Pensions",-0.443
+99,1985,Democrats,"Health, Education, Labor, & Pensions",-0.479
+100,1987,Democrats,"Health, Education, Labor, & Pensions",-0.493
+101,1989,Democrats,"Health, Education, Labor, & Pensions",-0.497
+102,1991,Democrats,"Health, Education, Labor, & Pensions",-0.508
+103,1993,Democrats,"Health, Education, Labor, & Pensions",-0.498
+104,1995,Democrats,"Health, Education, Labor, & Pensions",-0.526
+105,1997,Democrats,"Health, Education, Labor, & Pensions",-0.506
+106,1999,Democrats,"Health, Education, Labor, & Pensions",-0.507
+107,2001,Democrats,"Health, Education, Labor, & Pensions",-0.493
+108,2003,Democrats,"Health, Education, Labor, & Pensions",-0.457
+109,2005,Democrats,"Health, Education, Labor, & Pensions",-0.484
+110,2007,Democrats,"Health, Education, Labor, & Pensions",-0.528
+111,2009,Democrats,"Health, Education, Labor, & Pensions",-0.453
+112,2011,Democrats,"Health, Education, Labor, & Pensions",-0.416
+113,2013,Democrats,"Health, Education, Labor, & Pensions",-0.457
+80,1947,Republicans,"Health, Education, Labor, & Pensions",0.198
+81,1949,Republicans,"Health, Education, Labor, & Pensions",0.169
+82,1951,Republicans,"Health, Education, Labor, & Pensions",0.123
+83,1953,Republicans,"Health, Education, Labor, & Pensions",0.237
+84,1955,Republicans,"Health, Education, Labor, & Pensions",0.204
+85,1957,Republicans,"Health, Education, Labor, & Pensions",0.208
+86,1959,Republicans,"Health, Education, Labor, & Pensions",0.137
+87,1961,Republicans,"Health, Education, Labor, & Pensions",0.15
+88,1963,Republicans,"Health, Education, Labor, & Pensions",0.307
+89,1965,Republicans,"Health, Education, Labor, & Pensions",0.231
+90,1967,Republicans,"Health, Education, Labor, & Pensions",0.239
+91,1969,Republicans,"Health, Education, Labor, & Pensions",0.128
+92,1971,Republicans,"Health, Education, Labor, & Pensions",0.069
+93,1973,Republicans,"Health, Education, Labor, & Pensions",0.048
+94,1975,Republicans,"Health, Education, Labor, & Pensions",0.095
+95,1977,Republicans,"Health, Education, Labor, & Pensions",0.07
+96,1979,Republicans,"Health, Education, Labor, & Pensions",0.256
+97,1981,Republicans,"Health, Education, Labor, & Pensions",0.311
+98,1983,Republicans,"Health, Education, Labor, & Pensions",0.287
+99,1985,Republicans,"Health, Education, Labor, & Pensions",0.292
+100,1987,Republicans,"Health, Education, Labor, & Pensions",0.289
+101,1989,Republicans,"Health, Education, Labor, & Pensions",0.217
+102,1991,Republicans,"Health, Education, Labor, & Pensions",0.219
+103,1993,Republicans,"Health, Education, Labor, & Pensions",0.241
+104,1995,Republicans,"Health, Education, Labor, & Pensions",0.291
+105,1997,Republicans,"Health, Education, Labor, & Pensions",0.315
+106,1999,Republicans,"Health, Education, Labor, & Pensions",0.349
+107,2001,Republicans,"Health, Education, Labor, & Pensions",0.34
+108,2003,Republicans,"Health, Education, Labor, & Pensions",0.383
+109,2005,Republicans,"Health, Education, Labor, & Pensions",0.505
+110,2007,Republicans,"Health, Education, Labor, & Pensions",0.51
+111,2009,Republicans,"Health, Education, Labor, & Pensions",0.481
+112,2011,Republicans,"Health, Education, Labor, & Pensions",0.46
+113,2013,Republicans,"Health, Education, Labor, & Pensions",0.519
+80,1947,All members,Homeland Security & Governmental Affairs,0.074
+81,1949,All members,Homeland Security & Governmental Affairs,-0.015
+82,1951,All members,Homeland Security & Governmental Affairs,0.048
+83,1953,All members,Homeland Security & Governmental Affairs,0.064
+84,1955,All members,Homeland Security & Governmental Affairs,0.005
+85,1957,All members,Homeland Security & Governmental Affairs,0.061
+86,1959,All members,Homeland Security & Governmental Affairs,-0.054
+87,1961,All members,Homeland Security & Governmental Affairs,-0.118
+88,1963,All members,Homeland Security & Governmental Affairs,-0.125
+89,1965,All members,Homeland Security & Governmental Affairs,-0.156
+90,1967,All members,Homeland Security & Governmental Affairs,-0.138
+91,1969,All members,Homeland Security & Governmental Affairs,-0.105
+92,1971,All members,Homeland Security & Governmental Affairs,-0.075
+93,1973,All members,Homeland Security & Governmental Affairs,-0.065
+94,1975,All members,Homeland Security & Governmental Affairs,-0.114
+95,1977,All members,Homeland Security & Governmental Affairs,-0.171
+96,1979,All members,Homeland Security & Governmental Affairs,-0.151
+97,1981,All members,Homeland Security & Governmental Affairs,-0.097
+98,1983,All members,Homeland Security & Governmental Affairs,-0.065
+99,1985,All members,Homeland Security & Governmental Affairs,-0.106
+100,1987,All members,Homeland Security & Governmental Affairs,-0.143
+101,1989,All members,Homeland Security & Governmental Affairs,-0.113
+102,1991,All members,Homeland Security & Governmental Affairs,-0.129
+103,1993,All members,Homeland Security & Governmental Affairs,-0.13
+104,1995,All members,Homeland Security & Governmental Affairs,0.009
+105,1997,All members,Homeland Security & Governmental Affairs,-0.006
+106,1999,All members,Homeland Security & Governmental Affairs,-0.028
+107,2001,All members,Homeland Security & Governmental Affairs,-0.035
+108,2003,All members,Homeland Security & Governmental Affairs,-0.061
+109,2005,All members,Homeland Security & Governmental Affairs,-0.016
+110,2007,All members,Homeland Security & Governmental Affairs,-0.044
+111,2009,All members,Homeland Security & Governmental Affairs,-0.045
+112,2011,All members,Homeland Security & Governmental Affairs,0.028
+113,2013,All members,Homeland Security & Governmental Affairs,0.036
+80,1947,Democrats,Homeland Security & Governmental Affairs,-0.124
+81,1949,Democrats,Homeland Security & Governmental Affairs,-0.209
+82,1951,Democrats,Homeland Security & Governmental Affairs,-0.162
+83,1953,Democrats,Homeland Security & Governmental Affairs,-0.234
+84,1955,Democrats,Homeland Security & Governmental Affairs,-0.234
+85,1957,Democrats,Homeland Security & Governmental Affairs,-0.198
+86,1959,Democrats,Homeland Security & Governmental Affairs,-0.288
+87,1961,Democrats,Homeland Security & Governmental Affairs,-0.289
+88,1963,Democrats,Homeland Security & Governmental Affairs,-0.311
+89,1965,Democrats,Homeland Security & Governmental Affairs,-0.354
+90,1967,Democrats,Homeland Security & Governmental Affairs,-0.355
+91,1969,Democrats,Homeland Security & Governmental Affairs,-0.264
+92,1971,Democrats,Homeland Security & Governmental Affairs,-0.243
+93,1973,Democrats,Homeland Security & Governmental Affairs,-0.194
+94,1975,Democrats,Homeland Security & Governmental Affairs,-0.218
+95,1977,Democrats,Homeland Security & Governmental Affairs,-0.227
+96,1979,Democrats,Homeland Security & Governmental Affairs,-0.299
+97,1981,Democrats,Homeland Security & Governmental Affairs,-0.287
+98,1983,Democrats,Homeland Security & Governmental Affairs,-0.296
+99,1985,Democrats,Homeland Security & Governmental Affairs,-0.306
+100,1987,Democrats,Homeland Security & Governmental Affairs,-0.306
+101,1989,Democrats,Homeland Security & Governmental Affairs,-0.295
+102,1991,Democrats,Homeland Security & Governmental Affairs,-0.32
+103,1993,Democrats,Homeland Security & Governmental Affairs,-0.347
+104,1995,Democrats,Homeland Security & Governmental Affairs,-0.353
+105,1997,Democrats,Homeland Security & Governmental Affairs,-0.387
+106,1999,Democrats,Homeland Security & Governmental Affairs,-0.39
+107,2001,Democrats,Homeland Security & Governmental Affairs,-0.367
+108,2003,Democrats,Homeland Security & Governmental Affairs,-0.433
+109,2005,Democrats,Homeland Security & Governmental Affairs,-0.434
+110,2007,Democrats,Homeland Security & Governmental Affairs,-0.378
+111,2009,Democrats,Homeland Security & Governmental Affairs,-0.36
+112,2011,Democrats,Homeland Security & Governmental Affairs,-0.301
+113,2013,Democrats,Homeland Security & Governmental Affairs,-0.299
+80,1947,Republicans,Homeland Security & Governmental Affairs,0.245
+81,1949,Republicans,Homeland Security & Governmental Affairs,0.211
+82,1951,Republicans,Homeland Security & Governmental Affairs,0.292
+83,1953,Republicans,Homeland Security & Governmental Affairs,0.319
+84,1955,Republicans,Homeland Security & Governmental Affairs,0.244
+85,1957,Republicans,Homeland Security & Governmental Affairs,0.32
+86,1959,Republicans,Homeland Security & Governmental Affairs,0.415
+87,1961,Republicans,Homeland Security & Governmental Affairs,0.225
+88,1963,Republicans,Homeland Security & Governmental Affairs,0.248
+89,1965,Republicans,Homeland Security & Governmental Affairs,0.339
+90,1967,Republicans,Homeland Security & Governmental Affairs,0.295
+91,1969,Republicans,Homeland Security & Governmental Affairs,0.134
+92,1971,Republicans,Homeland Security & Governmental Affairs,0.135
+93,1973,Republicans,Homeland Security & Governmental Affairs,0.149
+94,1975,Republicans,Homeland Security & Governmental Affairs,0.072
+95,1977,Republicans,Homeland Security & Governmental Affairs,0.141
+96,1979,Republicans,Homeland Security & Governmental Affairs,0.015
+97,1981,Republicans,Homeland Security & Governmental Affairs,0.072
+98,1983,Republicans,Homeland Security & Governmental Affairs,0.121
+99,1985,Republicans,Homeland Security & Governmental Affairs,0.066
+100,1987,Republicans,Homeland Security & Governmental Affairs,0.074
+101,1989,Republicans,Homeland Security & Governmental Affairs,0.129
+102,1991,Republicans,Homeland Security & Governmental Affairs,0.126
+103,1993,Republicans,Homeland Security & Governmental Affairs,0.217
+104,1995,Republicans,Homeland Security & Governmental Affairs,0.326
+105,1997,Republicans,Homeland Security & Governmental Affairs,0.291
+106,1999,Republicans,Homeland Security & Governmental Affairs,0.253
+107,2001,Republicans,Homeland Security & Governmental Affairs,0.297
+108,2003,Republicans,Homeland Security & Governmental Affairs,0.27
+109,2005,Republicans,Homeland Security & Governmental Affairs,0.309
+110,2007,Republicans,Homeland Security & Governmental Affairs,0.333
+111,2009,Republicans,Homeland Security & Governmental Affairs,0.405
+112,2011,Republicans,Homeland Security & Governmental Affairs,0.497
+113,2013,Republicans,Homeland Security & Governmental Affairs,0.594
+80,1947,All members,Judiciary,0.041
+81,1949,All members,Judiciary,-0.044
+82,1951,All members,Judiciary,0.058
+83,1953,All members,Judiciary,0.112
+84,1955,All members,Judiciary,0.072
+85,1957,All members,Judiciary,0.054
+86,1959,All members,Judiciary,-0.102
+87,1961,All members,Judiciary,-0.05
+88,1963,All members,Judiciary,-0.11
+89,1965,All members,Judiciary,-0.128
+90,1967,All members,Judiciary,-0.082
+91,1969,All members,Judiciary,-0.064
+92,1971,All members,Judiciary,-0.045
+93,1973,All members,Judiciary,-0.044
+94,1975,All members,Judiciary,-0.088
+95,1977,All members,Judiciary,-0.156
+96,1979,All members,Judiciary,-0.097
+97,1981,All members,Judiciary,0.02
+98,1983,All members,Judiciary,-0.002
+99,1985,All members,Judiciary,-0.013
+100,1987,All members,Judiciary,-0.064
+101,1989,All members,Judiciary,-0.063
+102,1991,All members,Judiciary,-0.074
+103,1993,All members,Judiciary,-0.085
+104,1995,All members,Judiciary,0.01
+105,1997,All members,Judiciary,0.009
+106,1999,All members,Judiciary,0.034
+107,2001,All members,Judiciary,-0.047
+108,2003,All members,Judiciary,-0.017
+109,2005,All members,Judiciary,0.045
+110,2007,All members,Judiciary,-0.048
+111,2009,All members,Judiciary,-0.071
+112,2011,All members,Judiciary,0.034
+113,2013,All members,Judiciary,0.032
+80,1947,Democrats,Judiciary,-0.207
+81,1949,Democrats,Judiciary,-0.27
+82,1951,Democrats,Judiciary,-0.139
+83,1953,Democrats,Judiciary,-0.153
+84,1955,Democrats,Judiciary,-0.181
+85,1957,Democrats,Judiciary,-0.205
+86,1959,Democrats,Judiciary,-0.274
+87,1961,Democrats,Judiciary,-0.211
+88,1963,Democrats,Judiciary,-0.266
+89,1965,Democrats,Judiciary,-0.27
+90,1967,Democrats,Judiciary,-0.256
+91,1969,Democrats,Judiciary,-0.253
+92,1971,Democrats,Judiciary,-0.249
+93,1973,Democrats,Judiciary,-0.248
+94,1975,Democrats,Judiciary,-0.339
+95,1977,Democrats,Judiciary,-0.333
+96,1979,Democrats,Judiciary,-0.384
+97,1981,Democrats,Judiciary,-0.35
+98,1983,Democrats,Judiciary,-0.35
+99,1985,Democrats,Judiciary,-0.372
+100,1987,Democrats,Judiciary,-0.375
+101,1989,Democrats,Judiciary,-0.372
+102,1991,Democrats,Judiciary,-0.376
+103,1993,Democrats,Judiciary,-0.388
+104,1995,Democrats,Judiciary,-0.418
+105,1997,Democrats,Judiciary,-0.459
+106,1999,Democrats,Judiciary,-0.45
+107,2001,Democrats,Judiciary,-0.476
+108,2003,Democrats,Judiciary,-0.476
+109,2005,Democrats,Judiciary,-0.516
+110,2007,Democrats,Judiciary,-0.54
+111,2009,Democrats,Judiciary,-0.441
+112,2011,Democrats,Judiciary,-0.415
+113,2013,Democrats,Judiciary,-0.426
+80,1947,Republicans,Judiciary,0.254
+81,1949,Republicans,Judiciary,0.273
+82,1951,Republicans,Judiciary,0.287
+83,1953,Republicans,Judiciary,0.344
+84,1955,Republicans,Judiciary,0.361
+85,1957,Republicans,Judiciary,0.351
+86,1959,Republicans,Judiciary,0.241
+87,1961,Republicans,Judiciary,0.272
+88,1963,Republicans,Judiciary,0.201
+89,1965,Republicans,Judiciary,0.155
+90,1967,Republicans,Judiciary,0.301
+91,1969,Republicans,Judiciary,0.205
+92,1971,Republicans,Judiciary,0.217
+93,1973,Republicans,Judiciary,0.218
+94,1975,Republicans,Judiciary,0.288
+95,1977,Republicans,Judiciary,0.162
+96,1979,Republicans,Judiciary,0.313
+97,1981,Republicans,Judiciary,0.316
+98,1983,Republicans,Judiciary,0.276
+99,1985,Republicans,Judiciary,0.274
+100,1987,Republicans,Judiciary,0.351
+101,1989,Republicans,Judiciary,0.35
+102,1991,Republicans,Judiciary,0.329
+103,1993,Republicans,Judiciary,0.293
+104,1995,Republicans,Judiciary,0.353
+105,1997,Republicans,Judiciary,0.384
+106,1999,Republicans,Judiciary,0.421
+107,2001,Republicans,Judiciary,0.382
+108,2003,Republicans,Judiciary,0.396
+109,2005,Republicans,Judiciary,0.494
+110,2007,Republicans,Judiciary,0.499
+111,2009,Republicans,Judiciary,0.562
+112,2011,Republicans,Judiciary,0.597
+113,2013,Republicans,Judiciary,0.604
+80,1947,All members,Rules & Administration,0.092
+81,1949,All members,Rules & Administration,-0.015
+82,1951,All members,Rules & Administration,-0.04
+83,1953,All members,Rules & Administration,0.057
+84,1955,All members,Rules & Administration,0.033
+85,1957,All members,Rules & Administration,-0.115
+86,1959,All members,Rules & Administration,-0.113
+87,1961,All members,Rules & Administration,-0.059
+88,1963,All members,Rules & Administration,-0.119
+89,1965,All members,Rules & Administration,-0.119
+90,1967,All members,Rules & Administration,-0.119
+91,1969,All members,Rules & Administration,0.046
+92,1971,All members,Rules & Administration,-0.018
+93,1973,All members,Rules & Administration,-0.073
+94,1975,All members,Rules & Administration,-0.09
+95,1977,All members,Rules & Administration,-0.104
+96,1979,All members,Rules & Administration,-0.096
+97,1981,All members,Rules & Administration,0.025
+98,1983,All members,Rules & Administration,0.032
+99,1985,All members,Rules & Administration,0.024
+100,1987,All members,Rules & Administration,-0.041
+101,1989,All members,Rules & Administration,-0.035
+102,1991,All members,Rules & Administration,-0.075
+103,1993,All members,Rules & Administration,-0.049
+104,1995,All members,Rules & Administration,0.042
+105,1997,All members,Rules & Administration,0.089
+106,1999,All members,Rules & Administration,0.082
+107,2001,All members,Rules & Administration,0.043
+108,2003,All members,Rules & Administration,0.032
+109,2005,All members,Rules & Administration,0.072
+110,2007,All members,Rules & Administration,-0.014
+111,2009,All members,Rules & Administration,-0.039
+112,2011,All members,Rules & Administration,-0.002
+113,2013,All members,Rules & Administration,0.062
+80,1947,Democrats,Rules & Administration,-0.279
+81,1949,Democrats,Rules & Administration,-0.183
+82,1951,Democrats,Rules & Administration,-0.291
+83,1953,Democrats,Rules & Administration,-0.244
+84,1955,Democrats,Rules & Administration,-0.335
+85,1957,Democrats,Rules & Administration,-0.252
+86,1959,Democrats,Rules & Administration,-0.262
+87,1961,Democrats,Rules & Administration,-0.246
+88,1963,Democrats,Rules & Administration,-0.293
+89,1965,Democrats,Rules & Administration,-0.296
+90,1967,Democrats,Rules & Administration,-0.299
+91,1969,Democrats,Rules & Administration,-0.164
+92,1971,Democrats,Rules & Administration,-0.161
+93,1973,Democrats,Rules & Administration,-0.232
+94,1975,Democrats,Rules & Administration,-0.227
+95,1977,Democrats,Rules & Administration,-0.287
+96,1979,Democrats,Rules & Administration,-0.292
+97,1981,Democrats,Rules & Administration,-0.318
+98,1983,Democrats,Rules & Administration,-0.304
+99,1985,Democrats,Rules & Administration,-0.307
+100,1987,Democrats,Rules & Administration,-0.364
+101,1989,Democrats,Rules & Administration,-0.366
+102,1991,Democrats,Rules & Administration,-0.368
+103,1993,Democrats,Rules & Administration,-0.335
+104,1995,Democrats,Rules & Administration,-0.359
+105,1997,Democrats,Rules & Administration,-0.338
+106,1999,Democrats,Rules & Administration,-0.363
+107,2001,Democrats,Rules & Administration,-0.351
+108,2003,Democrats,Rules & Administration,-0.376
+109,2005,Democrats,Rules & Administration,-0.394
+110,2007,Democrats,Rules & Administration,-0.392
+111,2009,Democrats,Rules & Administration,-0.392
+112,2011,Democrats,Rules & Administration,-0.342
+113,2013,Democrats,Rules & Administration,-0.34
+80,1947,Republicans,Rules & Administration,0.324
+81,1949,Republicans,Rules & Administration,0.256
+82,1951,Republicans,Rules & Administration,0.252
+83,1953,Republicans,Rules & Administration,0.297
+84,1955,Republicans,Rules & Administration,0.493
+85,1957,Republicans,Rules & Administration,0.114
+86,1959,Republicans,Rules & Administration,0.186
+87,1961,Republicans,Rules & Administration,0.315
+88,1963,Republicans,Rules & Administration,0.229
+89,1965,Republicans,Rules & Administration,0.235
+90,1967,Republicans,Rules & Administration,0.242
+91,1969,Republicans,Rules & Administration,0.308
+92,1971,Republicans,Rules & Administration,0.161
+93,1973,Republicans,Rules & Administration,0.124
+94,1975,Republicans,Rules & Administration,0.14
+95,1977,Republicans,Rules & Administration,0.262
+96,1979,Republicans,Rules & Administration,0.198
+97,1981,Republicans,Rules & Administration,0.27
+98,1983,Republicans,Rules & Administration,0.272
+99,1985,Republicans,Rules & Administration,0.261
+100,1987,Republicans,Rules & Administration,0.374
+101,1989,Republicans,Rules & Administration,0.39
+102,1991,Republicans,Rules & Administration,0.364
+103,1993,Republicans,Rules & Administration,0.319
+104,1995,Republicans,Rules & Administration,0.354
+105,1997,Republicans,Rules & Administration,0.421
+106,1999,Republicans,Rules & Administration,0.429
+107,2001,Republicans,Rules & Administration,0.436
+108,2003,Republicans,Rules & Administration,0.4
+109,2005,Republicans,Rules & Administration,0.445
+110,2007,Republicans,Rules & Administration,0.405
+111,2009,Republicans,Rules & Administration,0.446
+112,2011,Republicans,Rules & Administration,0.423
+113,2013,Republicans,Rules & Administration,0.565
+80,1947,All members,Small Business & Entrepreneurship,n.a.
+81,1949,All members,Small Business & Entrepreneurship,n.a.
+82,1951,All members,Small Business & Entrepreneurship,n.a.
+83,1953,All members,Small Business & Entrepreneurship,n.a.
+84,1955,All members,Small Business & Entrepreneurship,n.a.
+85,1957,All members,Small Business & Entrepreneurship,n.a.
+86,1959,All members,Small Business & Entrepreneurship,n.a.
+87,1961,All members,Small Business & Entrepreneurship,n.a.
+88,1963,All members,Small Business & Entrepreneurship,n.a.
+89,1965,All members,Small Business & Entrepreneurship,n.a.
+90,1967,All members,Small Business & Entrepreneurship,n.a.
+91,1969,All members,Small Business & Entrepreneurship,n.a.
+92,1971,All members,Small Business & Entrepreneurship,n.a.
+93,1973,All members,Small Business & Entrepreneurship,n.a.
+94,1975,All members,Small Business & Entrepreneurship,n.a.
+95,1977,All members,Small Business & Entrepreneurship,n.a.
+96,1979,All members,Small Business & Entrepreneurship,n.a.
+97,1981,All members,Small Business & Entrepreneurship,-0.062
+98,1983,All members,Small Business & Entrepreneurship,-0.073
+99,1985,All members,Small Business & Entrepreneurship,-0.059
+100,1987,All members,Small Business & Entrepreneurship,-0.096
+101,1989,All members,Small Business & Entrepreneurship,-0.037
+102,1991,All members,Small Business & Entrepreneurship,-0.079
+103,1993,All members,Small Business & Entrepreneurship,-0.056
+104,1995,All members,Small Business & Entrepreneurship,0.013
+105,1997,All members,Small Business & Entrepreneurship,0.029
+106,1999,All members,Small Business & Entrepreneurship,0.001
+107,2001,All members,Small Business & Entrepreneurship,-0.038
+108,2003,All members,Small Business & Entrepreneurship,0.006
+109,2005,All members,Small Business & Entrepreneurship,0.086
+110,2007,All members,Small Business & Entrepreneurship,-0.017
+111,2009,All members,Small Business & Entrepreneurship,-0.013
+112,2011,All members,Small Business & Entrepreneurship,0.053
+113,2013,All members,Small Business & Entrepreneurship,0.163
+80,1947,Democrats,Small Business & Entrepreneurship,n.a.
+81,1949,Democrats,Small Business & Entrepreneurship,n.a.
+82,1951,Democrats,Small Business & Entrepreneurship,n.a.
+83,1953,Democrats,Small Business & Entrepreneurship,n.a.
+84,1955,Democrats,Small Business & Entrepreneurship,n.a.
+85,1957,Democrats,Small Business & Entrepreneurship,n.a.
+86,1959,Democrats,Small Business & Entrepreneurship,n.a.
+87,1961,Democrats,Small Business & Entrepreneurship,n.a.
+88,1963,Democrats,Small Business & Entrepreneurship,n.a.
+89,1965,Democrats,Small Business & Entrepreneurship,n.a.
+90,1967,Democrats,Small Business & Entrepreneurship,n.a.
+91,1969,Democrats,Small Business & Entrepreneurship,n.a.
+92,1971,Democrats,Small Business & Entrepreneurship,n.a.
+93,1973,Democrats,Small Business & Entrepreneurship,n.a.
+94,1975,Democrats,Small Business & Entrepreneurship,n.a.
+95,1977,Democrats,Small Business & Entrepreneurship,n.a.
+96,1979,Democrats,Small Business & Entrepreneurship,n.a.
+97,1981,Democrats,Small Business & Entrepreneurship,-0.321
+98,1983,Democrats,Small Business & Entrepreneurship,-0.289
+99,1985,Democrats,Small Business & Entrepreneurship,-0.317
+100,1987,Democrats,Small Business & Entrepreneurship,-0.33
+101,1989,Democrats,Small Business & Entrepreneurship,-0.315
+102,1991,Democrats,Small Business & Entrepreneurship,-0.367
+103,1993,Democrats,Small Business & Entrepreneurship,-0.393
+104,1995,Democrats,Small Business & Entrepreneurship,-0.395
+105,1997,Democrats,Small Business & Entrepreneurship,-0.427
+106,1999,Democrats,Small Business & Entrepreneurship,-0.428
+107,2001,Democrats,Small Business & Entrepreneurship,-0.43
+108,2003,Democrats,Small Business & Entrepreneurship,-0.372
+109,2005,Democrats,Small Business & Entrepreneurship,-0.386
+110,2007,Democrats,Small Business & Entrepreneurship,-0.4
+111,2009,Democrats,Small Business & Entrepreneurship,-0.352
+112,2011,Democrats,Small Business & Entrepreneurship,-0.351
+113,2013,Democrats,Small Business & Entrepreneurship,-0.327
+80,1947,Republicans,Small Business & Entrepreneurship,n.a.
+81,1949,Republicans,Small Business & Entrepreneurship,n.a.
+82,1951,Republicans,Small Business & Entrepreneurship,n.a.
+83,1953,Republicans,Small Business & Entrepreneurship,n.a.
+84,1955,Republicans,Small Business & Entrepreneurship,n.a.
+85,1957,Republicans,Small Business & Entrepreneurship,n.a.
+86,1959,Republicans,Small Business & Entrepreneurship,n.a.
+87,1961,Republicans,Small Business & Entrepreneurship,n.a.
+88,1963,Republicans,Small Business & Entrepreneurship,n.a.
+89,1965,Republicans,Small Business & Entrepreneurship,n.a.
+90,1967,Republicans,Small Business & Entrepreneurship,n.a.
+91,1969,Republicans,Small Business & Entrepreneurship,n.a.
+92,1971,Republicans,Small Business & Entrepreneurship,n.a.
+93,1973,Republicans,Small Business & Entrepreneurship,n.a.
+94,1975,Republicans,Small Business & Entrepreneurship,n.a.
+95,1977,Republicans,Small Business & Entrepreneurship,n.a.
+96,1979,Republicans,Small Business & Entrepreneurship,n.a.
+97,1981,Republicans,Small Business & Entrepreneurship,0.168
+98,1983,Republicans,Small Business & Entrepreneurship,0.143
+99,1985,Republicans,Small Business & Entrepreneurship,0.199
+100,1987,Republicans,Small Business & Entrepreneurship,0.196
+101,1989,Republicans,Small Business & Entrepreneurship,0.345
+102,1991,Republicans,Small Business & Entrepreneurship,0.374
+103,1993,Republicans,Small Business & Entrepreneurship,0.394
+104,1995,Republicans,Small Business & Entrepreneurship,0.347
+105,1997,Republicans,Small Business & Entrepreneurship,0.394
+106,1999,Republicans,Small Business & Entrepreneurship,0.344
+107,2001,Republicans,Small Business & Entrepreneurship,0.354
+108,2003,Republicans,Small Business & Entrepreneurship,0.345
+109,2005,Republicans,Small Business & Entrepreneurship,0.465
+110,2007,Republicans,Small Business & Entrepreneurship,0.408
+111,2009,Republicans,Small Business & Entrepreneurship,0.453
+112,2011,Republicans,Small Business & Entrepreneurship,0.501
+113,2013,Republicans,Small Business & Entrepreneurship,0.715
+80,1947,All members,Veterans Affairs,n.a.
+81,1949,All members,Veterans Affairs,n.a.
+82,1951,All members,Veterans Affairs,n.a.
+83,1953,All members,Veterans Affairs,n.a.
+84,1955,All members,Veterans Affairs,n.a.
+85,1957,All members,Veterans Affairs,n.a.
+86,1959,All members,Veterans Affairs,n.a.
+87,1961,All members,Veterans Affairs,n.a.
+88,1963,All members,Veterans Affairs,n.a.
+89,1965,All members,Veterans Affairs,n.a.
+90,1967,All members,Veterans Affairs,n.a.
+91,1969,All members,Veterans Affairs,n.a.
+92,1971,All members,Veterans Affairs,-0.066
+93,1973,All members,Veterans Affairs,-0.035
+94,1975,All members,Veterans Affairs,0.027
+95,1977,All members,Veterans Affairs,-0.052
+96,1979,All members,Veterans Affairs,-0.034
+97,1981,All members,Veterans Affairs,0.054
+98,1983,All members,Veterans Affairs,0.017
+99,1985,All members,Veterans Affairs,0.039
+100,1987,All members,Veterans Affairs,-0.095
+101,1989,All members,Veterans Affairs,-0.108
+102,1991,All members,Veterans Affairs,-0.131
+103,1993,All members,Veterans Affairs,-0.118
+104,1995,All members,Veterans Affairs,0.033
+105,1997,All members,Veterans Affairs,-0.034
+106,1999,All members,Veterans Affairs,-0.033
+107,2001,All members,Veterans Affairs,-0.021
+108,2003,All members,Veterans Affairs,0.059
+109,2005,All members,Veterans Affairs,0.08
+110,2007,All members,Veterans Affairs,-0.06
+111,2009,All members,Veterans Affairs,-0.096
+112,2011,All members,Veterans Affairs,-0.018
+113,2013,All members,Veterans Affairs,-0.032
+80,1947,Democrats,Veterans Affairs,n.a.
+81,1949,Democrats,Veterans Affairs,n.a.
+82,1951,Democrats,Veterans Affairs,n.a.
+83,1953,Democrats,Veterans Affairs,n.a.
+84,1955,Democrats,Veterans Affairs,n.a.
+85,1957,Democrats,Veterans Affairs,n.a.
+86,1959,Democrats,Veterans Affairs,n.a.
+87,1961,Democrats,Veterans Affairs,n.a.
+88,1963,Democrats,Veterans Affairs,n.a.
+89,1965,Democrats,Veterans Affairs,n.a.
+90,1967,Democrats,Veterans Affairs,n.a.
+91,1969,Democrats,Veterans Affairs,n.a.
+92,1971,Democrats,Veterans Affairs,-0.362
+93,1973,Democrats,Veterans Affairs,-0.367
+94,1975,Democrats,Veterans Affairs,-0.274
+95,1977,Democrats,Veterans Affairs,-0.272
+96,1979,Democrats,Veterans Affairs,-0.294
+97,1981,Democrats,Veterans Affairs,-0.329
+98,1983,Democrats,Veterans Affairs,-0.335
+99,1985,Democrats,Veterans Affairs,-0.367
+100,1987,Democrats,Veterans Affairs,-0.371
+101,1989,Democrats,Veterans Affairs,-0.377
+102,1991,Democrats,Veterans Affairs,-0.38
+103,1993,Democrats,Veterans Affairs,-0.332
+104,1995,Democrats,Veterans Affairs,-0.336
+105,1997,Democrats,Veterans Affairs,-0.477
+106,1999,Democrats,Veterans Affairs,-0.487
+107,2001,Democrats,Veterans Affairs,-0.341
+108,2003,Democrats,Veterans Affairs,-0.268
+109,2005,Democrats,Veterans Affairs,-0.432
+110,2007,Democrats,Veterans Affairs,-0.499
+111,2009,Democrats,Veterans Affairs,-0.419
+112,2011,Democrats,Veterans Affairs,-0.392
+113,2013,Democrats,Veterans Affairs,-0.436
+80,1947,Republicans,Veterans Affairs,n.a.
+81,1949,Republicans,Veterans Affairs,n.a.
+82,1951,Republicans,Veterans Affairs,n.a.
+83,1953,Republicans,Veterans Affairs,n.a.
+84,1955,Republicans,Veterans Affairs,n.a.
+85,1957,Republicans,Veterans Affairs,n.a.
+86,1959,Republicans,Veterans Affairs,n.a.
+87,1961,Republicans,Veterans Affairs,n.a.
+88,1963,Republicans,Veterans Affairs,n.a.
+89,1965,Republicans,Veterans Affairs,n.a.
+90,1967,Republicans,Veterans Affairs,n.a.
+91,1969,Republicans,Veterans Affairs,n.a.
+92,1971,Republicans,Veterans Affairs,0.303
+93,1973,Republicans,Veterans Affairs,0.38
+94,1975,Republicans,Veterans Affairs,0.403
+95,1977,Republicans,Veterans Affairs,0.315
+96,1979,Republicans,Veterans Affairs,0.357
+97,1981,Republicans,Veterans Affairs,0.328
+98,1983,Republicans,Veterans Affairs,0.268
+99,1985,Republicans,Veterans Affairs,0.271
+100,1987,Republicans,Veterans Affairs,0.235
+101,1989,Republicans,Veterans Affairs,0.213
+102,1991,Republicans,Veterans Affairs,0.219
+103,1993,Republicans,Veterans Affairs,0.182
+104,1995,Republicans,Veterans Affairs,0.296
+105,1997,Republicans,Veterans Affairs,0.283
+106,1999,Republicans,Veterans Affairs,0.291
+107,2001,Republicans,Veterans Affairs,0.3
+108,2003,Republicans,Veterans Affairs,0.354
+109,2005,Republicans,Veterans Affairs,0.464
+110,2007,Republicans,Veterans Affairs,0.441
+111,2009,Republicans,Veterans Affairs,0.441
+112,2011,Republicans,Veterans Affairs,0.409
+113,2013,Republicans,Veterans Affairs,0.507
+80,1947,All members,Chamber average,0.082
+81,1949,All members,Chamber average,0.018
+82,1951,All members,Chamber average,0.064
+83,1953,All members,Chamber average,0.048
+84,1955,All members,Chamber average,0.023
+85,1957,All members,Chamber average,0.014
+86,1959,All members,Chamber average,-0.1
+87,1961,All members,Chamber average,-0.096
+88,1963,All members,Chamber average,-0.113
+89,1965,All members,Chamber average,-0.125
+90,1967,All members,Chamber average,-0.11
+91,1969,All members,Chamber average,-0.077
+92,1971,All members,Chamber average,-0.061
+93,1973,All members,Chamber average,-0.08
+94,1975,All members,Chamber average,-0.097
+95,1977,All members,Chamber average,-0.101
+96,1979,All members,Chamber average,-0.08
+97,1981,All members,Chamber average,0.011
+98,1983,All members,Chamber average,0.012
+99,1985,All members,Chamber average,0.002
+100,1987,All members,Chamber average,-0.047
+101,1989,All members,Chamber average,-0.045
+102,1991,All members,Chamber average,-0.06
+103,1993,All members,Chamber average,-0.059
+104,1995,All members,Chamber average,-0.04
+105,1997,All members,Chamber average,0.029
+106,1999,All members,Chamber average,0.028
+107,2001,All members,Chamber average,-0.005
+108,2003,All members,Chamber average,-0.002
+109,2005,All members,Chamber average,0.06
+110,2007,All members,Chamber average,0.059
+111,2009,All members,Chamber average,-0.033
+112,2011,All members,Chamber average,0.037
+113,2013,All members,Chamber average,0.044
+80,1947,Democrats,Chamber average,-0.173
+81,1949,Democrats,Chamber average,-0.194
+82,1951,Democrats,Chamber average,-0.162
+83,1953,Democrats,Chamber average,-0.171
+84,1955,Democrats,Chamber average,-0.226
+85,1957,Democrats,Chamber average,-0.245
+86,1959,Democrats,Chamber average,-0.29
+87,1961,Democrats,Chamber average,-0.291
+88,1963,Democrats,Chamber average,-0.31
+89,1965,Democrats,Chamber average,-0.321
+90,1967,Democrats,Chamber average,-0.311
+91,1969,Democrats,Chamber average,-0.298
+92,1971,Democrats,Chamber average,-0.302
+93,1973,Democrats,Chamber average,-0.331
+94,1975,Democrats,Chamber average,-0.323
+95,1977,Democrats,Chamber average,-0.318
+96,1979,Democrats,Chamber average,-0.315
+97,1981,Democrats,Chamber average,-0.304
+98,1983,Democrats,Chamber average,-0.309
+99,1985,Democrats,Chamber average,-0.324
+100,1987,Democrats,Chamber average,-0.332
+101,1989,Democrats,Chamber average,-0.336
+102,1991,Democrats,Chamber average,-0.34
+103,1993,Democrats,Chamber average,-0.349
+104,1995,Democrats,Chamber average,-0.358
+105,1997,Democrats,Chamber average,-0.396
+106,1999,Democrats,Chamber average,-0.394
+107,2001,Democrats,Chamber average,-0.388
+108,2003,Democrats,Chamber average,-0.388
+109,2005,Democrats,Chamber average,-0.424
+110,2007,Democrats,Chamber average,-0.424
+111,2009,Democrats,Chamber average,-0.368
+112,2011,Democrats,Chamber average,-0.361
+113,2013,Democrats,Chamber average,-0.378
+80,1947,Republicans,Chamber average,0.307
+81,1949,Republicans,Chamber average,0.287
+82,1951,Republicans,Chamber average,0.306
+83,1953,Republicans,Chamber average,0.28
+84,1955,Republicans,Chamber average,0.291
+85,1957,Republicans,Chamber average,0.278
+86,1959,Republicans,Chamber average,0.248
+87,1961,Republicans,Chamber average,0.26
+88,1963,Republicans,Chamber average,0.279
+89,1965,Republicans,Chamber average,0.284
+90,1967,Republicans,Chamber average,0.248
+91,1969,Republicans,Chamber average,0.217
+92,1971,Republicans,Chamber average,0.21
+93,1973,Republicans,Chamber average,0.239
+94,1975,Republicans,Chamber average,0.246
+95,1977,Republicans,Chamber average,0.234
+96,1979,Republicans,Chamber average,0.244
+97,1981,Republicans,Chamber average,0.279
+98,1983,Republicans,Chamber average,0.284
+99,1985,Republicans,Chamber average,0.292
+100,1987,Republicans,Chamber average,0.293
+101,1989,Republicans,Chamber average,0.31
+102,1991,Republicans,Chamber average,0.306
+103,1993,Republicans,Chamber average,0.308
+104,1995,Republicans,Chamber average,0.304
+105,1997,Republicans,Chamber average,0.389
+106,1999,Republicans,Chamber average,0.387
+107,2001,Republicans,Chamber average,0.386
+108,2003,Republicans,Chamber average,0.369
+109,2005,Republicans,Chamber average,0.456
+110,2007,Republicans,Chamber average,0.456
+111,2009,Republicans,Chamber average,0.425
+112,2011,Republicans,Chamber average,0.487
+113,2013,Republicans,Chamber average,0.548
