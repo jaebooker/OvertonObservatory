@@ -1,1 +1,3 @@
-Shhhhhh! I know there's no stuff here, yet, but let's just keep that between us, okay?
+An examination of how Oveton's Window applies to modern day politics.
+
+Includes Jupyter Notebook and Keynote Presentation on the findings.
